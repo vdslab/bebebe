@@ -9,10 +9,10 @@ def serch_spotify_url(song_name):
   Args:
     song_name: 曲名
   Returns:
-    url: Spotify URL, 曲が見つからなければ文字列で404を返す。曲名と合致するデータがなければNoneを返す。
+    slug: URLの末尾の文字列。曲が見つからなければ文字列で404を返す。曲名と合致するデータがなければNoneを返す。
   """
-  client_id = 'your client id'
-  client_secret = 'your secret id'
+  client_id = sid.CLIENT_ID#'your client id'
+  client_secret = sid.SECRET_ID#'your secret id'
   sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret), requests_timeout=5)
   results = None
   try:
@@ -22,10 +22,9 @@ def serch_spotify_url(song_name):
     sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id=client_id, client_secret=client_secret), requests_timeout=10)
     results = sp.search(q=song_name, limit=20)
   if(not results['tracks']['items']): return "404"
-  url = None
+  slug = None
   print(song_name)
-  for track in enumerate(results['tracks']['items']):
+  for _,track in enumerate(results['tracks']['items']):
     if(track['name'] == song_name):
       slug = track['href'][track['href'].find('/tracks/')+len('/tracks/'):]
-      url = 'https://open.spotify.com/track/' + slug
-  return url
+  return slug

@@ -20,7 +20,13 @@ def create_json_data(year,month,day):
     ranking_info['ranking'] = r.text
     ranking_info['title'] = title.text
     ranking_info['artist'] = artist.text
-    ranking_info['url'] = serch_spotify.serch_spotify_url(title.text)
+    ranking_info['id'] = serch_spotify.serch_spotify_url(title.text)
+    if ranking_info['id'] == None:
+      ranking_info['url'] = None
+    elif ranking_info['id'] == "404":
+      ranking_info['url'] = "404"
+    else:
+      ranking_info['url'] = "https://open.spotify.com/track/" + ranking_info['id']
     ranking_info['date'] = str(year) + '/' + str(month) + '/' + str(day)
     ranking_data.append(ranking_info)
     # time.sleep(1)

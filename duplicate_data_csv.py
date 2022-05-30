@@ -18,7 +18,7 @@ with open(path_load, 'r', encoding='utf-8') as f:
 
 with open(path_write, 'w') as f:
   json_key_name = ['danceability', 'energy', 'loudness',  'speechiness', 'acousticness',
-                 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms','title']
+                 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms','title','ranking']
   writer = csv.writer(f)
   writer.writerow(json_key_name)
   for song_data in duplicate_data:
