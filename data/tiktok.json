@@ -792,7 +792,7 @@
     "ranking": "17",
     "date": "2022/1/10",
     "artist": "Issei Uno Fifth",
-    "genres": [],
+    "genres": null,
     "artist_uri": "3ChsBdunsttUJkFhSKRhfq"
   },
   {
@@ -814,8 +814,8 @@
     "ranking": "13",
     "date": "2022/1/31",
     "artist": "阿部真央",
-    "genres": [],
-    "artist_uri": "6eL9TA0jKegToqUY2gaQ8G"
+    "genres": ["j-pop", "j-poprock", "j-rock", "japanese singer-songwriter"],
+    "artist_uri": "5ajce5LoM5SK6a6zzyF4My"
   },
   {
     "id": "3SU6QfO8sxcXi6XcUpSlHy",
@@ -836,8 +836,8 @@
     "ranking": "14",
     "date": "2022/2/14",
     "artist": "あかね",
-    "genres": [],
-    "artist_uri": "7E61BhEMgngwg7EPgS17vl"
+    "genres": ["japanese teen pop", "jirai kei"],
+    "artist_uri": "48cmBTHGDXpbMmImSbBprJ"
   },
   {
     "id": "0EWX020g7fvoErmWlr5MwU",
@@ -902,8 +902,8 @@
     "ranking": "8",
     "date": "2022/1/24",
     "artist": "ニコ",
-    "genres": [],
-    "artist_uri": "7KRzrbcoxso3s8634q1Y7p"
+    "genres": ["anime", "j-pop", "j-poprock", "j-rock"],
+    "artist_uri": "16FpDRuy5xMHpuLYZV0Hkt"
   },
   {
     "id": "4gdiCHNbwugojBqr5Jt3pq",
@@ -1012,7 +1012,7 @@
     "ranking": "12",
     "date": "2022/2/7",
     "artist": "Studio Killers",
-    "genres": [],
+    "genres": null,
     "artist_uri": "7avo0PmlW8O1YLEt9DnWQT"
   },
   {
@@ -1056,7 +1056,7 @@
     "ranking": "16",
     "date": "2022/2/28",
     "artist": "梅田サイファー",
-    "genres": [],
+    "genres": null,
     "artist_uri": "6jGXROxZ2l5mTSyfVqjLn2"
   },
   {
@@ -1298,7 +1298,7 @@
     "ranking": "11",
     "date": "2022/3/21",
     "artist": "TonyGumbo",
-    "genres": [],
+    "genres": null,
     "artist_uri": "4LuzCe2a1kjq7ADvoq4tcD"
   },
   {
@@ -1364,7 +1364,7 @@
     "ranking": "17",
     "date": "2022/3/28",
     "artist": "LeaFie",
-    "genres": [],
+    "genres": null,
     "artist_uri": "7nTv6VarQnlpatljBje9WK"
   },
   {
@@ -1386,7 +1386,7 @@
     "ranking": "8",
     "date": "2022/5/16",
     "artist": "Emetsound",
-    "genres": [],
+    "genres": null,
     "artist_uri": "4dKJnc3oBTZWbuNQiQvFLd"
   },
   {
@@ -1474,7 +1474,7 @@
     "ranking": "14",
     "date": "2022/4/25",
     "artist": "D Billions",
-    "genres": [],
+    "genres": null,
     "artist_uri": "0qIpOhRDzOLVVxO7RAR3RZ"
   },
   {
@@ -1524,7 +1524,7 @@
     "ranking": "6",
     "date": "2022/5/16",
     "artist": "Snow Man",
-    "genres": [],
+    "genres": null,
     "artist_uri": "5NuOW7GuqjzRRQty9SHlRx"
   },
   {
@@ -1612,8 +1612,8 @@
     "ranking": "20",
     "date": "2022/4/11",
     "artist": "ゆず",
-    "genres": [],
-    "artist_uri": "7J2VS4q5NrXBwIj5di5ZCF"
+    "genres": ["j-acoustic", "j-pop", "j-poprock", "j-rock"],
+    "artist_uri": "7lNFzeAXmSIKexINNgO6bu"
   },
   {
     "id": "0TQpPhA1OBrVGIfaKShRrx",
@@ -1788,8 +1788,8 @@
     "ranking": "5",
     "date": "2022/5/9",
     "artist": "りりあ。",
-    "genres": [],
-    "artist_uri": "1JyA4TFld3mybh8Viy3Nmc"
+    "genres": ["japanese teen pop"],
+    "artist_uri": "1J6OD7vLbjEuFVgVRlusmS"
   },
   {
     "id": "0O4YelF6Zneq7sk1Ye73N2",
