@@ -6,15 +6,19 @@ import csv
 import glob
 
 
-client_id = 'your client id'
-client_secret = 'your secret id'
+artist_json_open = open('./data/artist.json', 'r')
+artist_name_id_list = json.load(artist_json_open)
+
+client_id = ''
+client_secret = ''
+
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
     client_id=client_id, client_secret=client_secret), requests_timeout=5)
 json_key_name = ['danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness',
                  'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature']
 
 analysis_song_data = dict()
-for filename in sorted(glob.glob("../spotify chart data/regional-jp-weekly-*.csv")):
+for filename in sorted(glob.glob("../spotify_chart_data/regional-jp-weekly-*.csv")):
     with open(filename, newline="") as f:
         dic_reader = csv.DictReader(f)
         for row in dic_reader:
@@ -36,8 +40,14 @@ for filename in sorted(glob.glob("../spotify chart data/regional-jp-weekly-*.csv
             artist_name = row["artist_names"]
             artist_result = sp.search(q='artist:' + artist_name, type='artist')
             artist_info_list = artist_result["artists"]["items"]
-
             analysis_song_info["artist"] = artist_name
+
+            if len(artist_info_list) == 0:
+                print(artist_name_id_list[row["artist_names"]])
+                artist = sp.artist(artist_name_id_list[row["artist_names"]])
+                artist_info_list.append(artist)
+                analysis_song_info["artist"] = artist["name"]
+
             if len(artist_info_list) > 0:
                 analysis_song_info["genres"] = artist_info_list[0]["genres"]
                 analysis_song_info["artist_uri"] = artist_info_list[0]["uri"][15:]

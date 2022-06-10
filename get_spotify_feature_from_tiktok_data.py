@@ -6,16 +6,18 @@ import json
 import csv
 import glob
 
+artist_json_open = open('./data/artist2.json', 'r')
+artist_name_id_list = json.load(artist_json_open)
 
-client_id = 'your client id'
-client_secret = 'your secret id'
+client_id = ''
+client_secret = ''
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
     client_id=client_id, client_secret=client_secret), requests_timeout=5)
 json_key_name = ['danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness',
                  'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms', 'time_signature']
 
 analysis_song_data = dict()
-file_list = ["./test/tiktok_ranking_data_fill_in_the_null.json"]
+file_list = ["./test_data/misato/tiktok_ranking_data_fill_in_the_null.json"]
 for file_name in file_list:
     with open(file_name, 'r', encoding='utf-8') as f:
         data = json.load(f)
@@ -36,12 +38,17 @@ for file_name in file_list:
             analysis_song_info['date'] = date
 
             # add
-
             artist_name = song["artist"]
             artist_result = sp.search(q='artist:' + artist_name, type='artist')
             artist_info_list = artist_result["artists"]["items"]
-
             analysis_song_info["artist"] = artist_name
+
+            if len(artist_info_list) == 0:
+                print(artist_name_id_list[song["artist"]])
+                artist = sp.artist(artist_name_id_list[song["artist"]])
+                artist_info_list.append(artist)
+                analysis_song_info["artist"] = artist["name"]
+
             if len(artist_info_list) > 0:
                 analysis_song_info["genres"] = artist_info_list[0]["genres"]
                 analysis_song_info["artist_uri"] = artist_info_list[0]["uri"][15:]
