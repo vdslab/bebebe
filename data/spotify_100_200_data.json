@@ -106,8 +106,8 @@
     "ranking": "154",
     "date": "2021-12-30",
     "artist": "ミドリーズ",
-    "genres": [],
-    "artist_uri": "3y1b2eef2HLeYyqFJLtH4p"
+    "genres": ["j-pop", "japanese teen pop"],
+    "artist_uri": "64tJ2EAv1R6UaZqc4iOCyj"
   },
   {
     "id": "18gB0d6DaRPvrQBbl7WEuk",
@@ -882,8 +882,8 @@
     "ranking": "139",
     "date": "2021-12-30",
     "artist": "Yorushika",
-    "genres": [],
-    "artist_uri": "61q35tg8Qqb7Yos60UEMnV"
+    "genres": ["j-pop"],
+    "artist_uri": "4UK2Lzi6fBfUi9rpDt6cik"
   },
   {
     "id": "0RuLz62h4YPNXqdO20Fmf6",
@@ -1080,8 +1080,8 @@
     "ranking": "166",
     "date": "2021-12-30",
     "artist": "Yorushika",
-    "genres": [],
-    "artist_uri": "61q35tg8Qqb7Yos60UEMnV"
+    "genres": ["j-pop"],
+    "artist_uri": "4UK2Lzi6fBfUi9rpDt6cik"
   },
   {
     "id": "5f0N60WTFye6mIxkIRPuBM",
@@ -1305,8 +1305,8 @@
     "ranking": "168",
     "date": "2021-12-30",
     "artist": "Uru",
-    "genres": [],
-    "artist_uri": "1HRP4rtLUA0IdEjlCAR66t"
+    "genres": null,
+    "artist_uri": "5kN3y5UAnvS6UoiBqBCvuB"
   },
   {
     "id": "7iXHLtPosbHvglVSJ4rxLq",
@@ -1393,8 +1393,8 @@
     "ranking": "148",
     "date": "2021-12-30",
     "artist": "Uru",
-    "genres": [],
-    "artist_uri": "1HRP4rtLUA0IdEjlCAR66t"
+    "genres": null,
+    "artist_uri": "6le80R1opKnTlP4o3KvA2k"
   },
   {
     "id": "1YJhvLLaF3gyFQoFGrawoI",
@@ -3027,8 +3027,8 @@
     "ranking": "189",
     "date": "2022-04-21",
     "artist": "GOT the beat",
-    "genres": [],
-    "artist_uri": "6uNxlIP5lzPFf0BHuELOuX"
+    "genres": null,
+    "artist_uri": "5z6jvAiSsqhNVUZLjALMRP"
   },
   {
     "id": "2EK2DrH59MHythSLcW3Akp",
@@ -3379,8 +3379,8 @@
     "ranking": "172",
     "date": "2022-02-10",
     "artist": "ayaka, Taka",
-    "genres": [],
-    "artist_uri": "1L9cBTkaIE2A53uCAARwcJ"
+    "genres": ["j-pop", "j-rock", "japanese singer-songwriter"],
+    "artist_uri": "22FsmLO3ZyvgWBy5QbfcQi"
   },
   {
     "id": "3t4KHjd8uQpJJ2fa0fRIpR",
@@ -3956,7 +3956,7 @@
     "ranking": "177",
     "date": "2022-02-24",
     "artist": "TREASURE",
-    "genres": [],
+    "genres": null,
     "artist_uri": "3KonOYiLsU53m4yT7gNotP"
   },
   {
@@ -4110,7 +4110,7 @@
     "ranking": "148",
     "date": "2022-03-10",
     "artist": "Jung Kook",
-    "genres": [],
+    "genres": null,
     "artist_uri": "6HaGTQPmzraVmaVxvz6EUc"
   },
   {
@@ -4252,7 +4252,7 @@
     "ranking": "190",
     "date": "2022-05-12",
     "artist": "TREASURE",
-    "genres": [],
+    "genres": null,
     "artist_uri": "3KonOYiLsU53m4yT7gNotP"
   },
   {
@@ -5795,7 +5795,7 @@
     "ranking": "134",
     "date": "2022-04-21",
     "artist": "Kyanai",
-    "genres": [],
+    "genres": null,
     "artist_uri": "42ogLtXLVjZryRz9j1zvOm"
   },
   {
@@ -5993,7 +5993,7 @@
     "ranking": "183",
     "date": "2022-05-12",
     "artist": "Jimin",
-    "genres": [],
+    "genres": null,
     "artist_uri": "1oSPZhvZMIrWW5I41kPkkY"
   },
   {
@@ -6241,8 +6241,8 @@
     "ranking": "166",
     "date": "2022-05-05",
     "artist": "Uru",
-    "genres": [],
-    "artist_uri": "1HRP4rtLUA0IdEjlCAR66t"
+    "genres": ["j-pop", "japanese singer-songwriter"],
+    "artist_uri": "6le80R1opKnTlP4o3KvA2k"
   },
   {
     "id": "4PKIhZHuWGlELcxyvV8Oxb",
@@ -6402,7 +6402,7 @@
     "ranking": "115",
     "date": "2022-06-02",
     "artist": "汐れいら",
-    "genres": [],
+    "genres": null,
     "artist_uri": "6GVsZoMbMt0jmqwcvz1a1F"
   },
   {
@@ -6722,7 +6722,7 @@
     "ranking": "160",
     "date": "2022-05-26",
     "artist": "Akihito Okano",
-    "genres": [],
+    "genres": null,
     "artist_uri": "1ioDAlx6i5snCxm2z9ZnUD"
   },
   {
@@ -6788,7 +6788,7 @@
     "ranking": "102",
     "date": "2022-06-02",
     "artist": "有華",
-    "genres": [],
+    "genres": null,
     "artist_uri": "762RAUTV6WKHmrHR7fsFbj"
   },
   {
@@ -6974,7 +6974,7 @@
     "ranking": "152",
     "date": "2022-06-02",
     "artist": "YOAKE",
-    "genres": [],
+    "genres": null,
     "artist_uri": "0psEe4IooMjolOPMrz9A5M"
   },
   {
@@ -7304,7 +7304,7 @@
     "ranking": "158",
     "date": "2021-12-02",
     "artist": "BoyWithUke",
-    "genres": [],
+    "genres": null,
     "artist_uri": "1Cd373x8qzC7SNUg5IToqp"
   },
   {
@@ -7806,8 +7806,8 @@
     "ranking": "115",
     "date": "2021-12-30",
     "artist": "BoA",
-    "genres": [],
-    "artist_uri": "5jTtGLk1mGFMY5lQOvJYUj"
+    "genres": ["k-pop"],
+    "artist_uri": "4muJrGMndyYWqZtfk8OWy4"
   },
   {
     "id": "4Ls20opS0EzPb7NuA6F8VI",
@@ -7922,8 +7922,8 @@
     "ranking": "146",
     "date": "2021-12-30",
     "artist": "B'z",
-    "genres": [],
-    "artist_uri": "3pgd7WueUBcL4ZQBWR2UMg"
+    "genres": ["j-pop"],
+    "artist_uri": "7i9bNUSGORP5MIgrii3cJc"
   },
   {
     "id": "3nAp4IvdMPPWEH9uuXFFV5",
@@ -8030,7 +8030,7 @@
     "ranking": "194",
     "date": "2021-12-23",
     "artist": "The Rossman Ensemble",
-    "genres": [],
+    "genres": null,
     "artist_uri": "7MmIC8lbUdmL6c05M63KF6"
   },
   {
