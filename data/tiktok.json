@@ -17,7 +17,9 @@
     "time_signature": 4,
     "ranking": "17",
     "date": "2022/3/14",
-    "artist": "音莉飴"
+    "artist": "音莉飴",
+    "genres": ["japanese teen pop", "jirai kei"],
+    "artist_uri": "48cmBTHGDXpbMmImSbBprJ"
   },
   {
     "id": "0ai7K2rYiFvCOBCEdC9Qfm",
@@ -81,7 +83,9 @@
     "time_signature": 4,
     "ranking": "10",
     "date": "2021/12/27",
-    "artist": "大橋ちっぽけ"
+    "artist": "Chippoke Ohashi",
+    "genres": ["j-pop", "japanese alternative pop"],
+    "artist_uri": "3QWnDVzCzffmWoYCAGNajE"
   },
   {
     "id": "5x67EAHDrso2bSXy5HWx0j",
@@ -101,7 +105,9 @@
     "time_signature": 4,
     "ranking": "12",
     "date": "2022/1/10",
-    "artist": "たかやん"
+    "artist": "たかやん",
+    "genres": ["men chika"],
+    "artist_uri": "79JgYJHiBUZcvYqOC5Zufn"
   },
   {
     "id": "4s4c5EF1ujgsPPn4NRNwGL",
@@ -121,7 +127,16 @@
     "time_signature": 4,
     "ranking": "15",
     "date": "2022/1/17",
-    "artist": "サイプレス・ヒル"
+    "artist": "Cypress Hill",
+    "genres": [
+      "chicano rap",
+      "gangster rap",
+      "hip hop",
+      "rap",
+      "rap rock",
+      "west coast rap"
+    ],
+    "artist_uri": "4P0dddbxPil35MNN9G2MEX"
   },
   {
     "id": "096qZRdXPOyvb5OP8NI7pw",
@@ -207,7 +222,9 @@
     "time_signature": 4,
     "ranking": "11",
     "date": "2021/12/13",
-    "artist": "クリープハイプ"
+    "artist": "Creep Hyp",
+    "genres": ["j-pop", "j-rock"],
+    "artist_uri": "6POfB0fHdzXFLWL3RHxLv8"
   },
   {
     "id": "0eu4C55hL6x29mmeAjytzC",
@@ -227,7 +244,9 @@
     "time_signature": 4,
     "ranking": "15",
     "date": "2021/12/20",
-    "artist": "オリバー・ツリー"
+    "artist": "Oliver Tree",
+    "genres": ["alternative hip hop"],
+    "artist_uri": "6TLwD7HPWuiOzvXEa3oCNe"
   },
   {
     "id": "0FOVGBW0RpVRuDuUuN4ZVw",
@@ -247,7 +266,9 @@
     "time_signature": 4,
     "ranking": "16",
     "date": "2021/12/20",
-    "artist": "MAISONdes feat.和ぬか, asmi"
+    "artist": "MAISONdes",
+    "genres": ["j-pop", "japanese teen pop"],
+    "artist_uri": "7LTiBdByoaUd329wCpmMcM"
   },
   {
     "id": "1y4eb6hmAvsqlDOl3fx9kk",
@@ -267,7 +288,9 @@
     "time_signature": 4,
     "ranking": "20",
     "date": "2021/12/27",
-    "artist": "ケイティ・ペリー"
+    "artist": "Katy Perry",
+    "genres": ["dance pop", "pop", "post-teen pop"],
+    "artist_uri": "6jJ0s89eD6GaHleKKya26X"
   },
   {
     "id": "4Jp1oze46OeCkvGhvL7Inc",
@@ -287,7 +310,9 @@
     "time_signature": 4,
     "ranking": "17",
     "date": "2022/5/16",
-    "artist": "針スピ子"
+    "artist": "Hari Supiko",
+    "genres": ["japanese viral pop"],
+    "artist_uri": "3pOsiXCs15cciauqipr975"
   },
   {
     "id": "0iotyDF6RF5klVLztERO5Z",
@@ -351,7 +376,9 @@
     "time_signature": 4,
     "ranking": "20",
     "date": "2022/3/21",
-    "artist": "ピアニカの魔術師"
+    "artist": "ピアニカの魔術師",
+    "genres": [],
+    "artist_uri": "0vDdKDjHoPSopjedHbmz1v"
   },
   {
     "id": "3RBae3FyAQbpevUMDK4Jvr",
@@ -393,7 +420,9 @@
     "time_signature": 4,
     "ranking": "15",
     "date": "2022/1/10",
-    "artist": "サム・オック"
+    "artist": "Sam Ock",
+    "genres": ["ambeat"],
+    "artist_uri": "0823FxAYBXOeMTOWPeH9HH"
   },
   {
     "id": "6YBcbXDYIITuyCEN2YwGRy",
@@ -457,7 +486,9 @@
     "time_signature": 4,
     "ranking": "15",
     "date": "2022/3/28",
-    "artist": "メーガン・トレイナー"
+    "artist": "Meghan Trainor",
+    "genres": ["dance pop", "hip pop", "pop", "post-teen pop"],
+    "artist_uri": "6JL8zeS1NmiOftqZTRgdTz"
   },
   {
     "id": "3FmTrTjnEZ9ZX7b0LUPZYW",
@@ -527,7 +558,9 @@
     "time_signature": 4,
     "ranking": "20",
     "date": "2022/5/9",
-    "artist": "Orangestar (feat.夏背 & ルワン)"
+    "artist": "Orangestar",
+    "genres": ["vocaloid"],
+    "artist_uri": "420aixNZr4paRQmuRXz3DS"
   },
   {
     "id": "7n2FZQsaLb7ZRfRPfEeIvr",
@@ -569,7 +602,9 @@
     "time_signature": 4,
     "ranking": "16",
     "date": "2022/4/4",
-    "artist": "湊あくあ"
+    "artist": "湊あくあ",
+    "genres": ["hololive", "japanese vtuber", "jirai kei"],
+    "artist_uri": "6GHr4rGFHGRUuzuCuxJA0f"
   },
   {
     "id": "2G2X5AMqBRE2PgS3qCWfqf",
@@ -589,7 +624,9 @@
     "time_signature": 4,
     "ranking": "11",
     "date": "2022/5/16",
-    "artist": "しゃろう"
+    "artist": "しゃろう",
+    "genres": ["japanese viral pop"],
+    "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o"
   },
   {
     "id": "0bYg9bo50gSsH3LtXe2SQn",
@@ -609,7 +646,9 @@
     "time_signature": 4,
     "ranking": "10",
     "date": "2022/1/3",
-    "artist": "マライア・キャリー"
+    "artist": "Mariah Carey",
+    "genres": ["dance pop", "pop", "urban contemporary"],
+    "artist_uri": "4iHNK0tOyZPYnBU7nGAgpQ"
   },
   {
     "id": "3cBghvTcQNDNkW98Y4eGaP",
@@ -651,7 +690,16 @@
     "time_signature": 4,
     "ranking": "13",
     "date": "2022/1/3",
-    "artist": "ムッシュ・ペリネ"
+    "artist": "Monsieur Periné",
+    "genres": [
+      "colombian pop",
+      "gypsy jazz",
+      "latin",
+      "latin alternative",
+      "latin pop",
+      "latin rock"
+    ],
+    "artist_uri": "36KsCCwgI0Dep97yVJWmkK"
   },
   {
     "id": "71wZ1KJdXSa5hC51kvGBL2",
@@ -671,7 +719,15 @@
     "time_signature": 4,
     "ranking": "15",
     "date": "2022/1/3",
-    "artist": "フィフス・ハーモニー"
+    "artist": "Fifth Harmony",
+    "genres": [
+      "dance pop",
+      "girl group",
+      "pop",
+      "post-teen pop",
+      "talent show"
+    ],
+    "artist_uri": "1l8Fu6IkuTP0U5QetQJ5Xt"
   },
   {
     "id": "4644JaCBBX7EpiZY1XXJaW",
@@ -713,7 +769,9 @@
     "time_signature": 4,
     "ranking": "20",
     "date": "2022/2/28",
-    "artist": "レズ"
+    "artist": "Rezz",
+    "genres": ["canadian electronic", "edm", "electra", "electro house"],
+    "artist_uri": "4aKdmOXdUKX07HVd3sGgzw"
   },
   {
     "id": "2E1t1eINdyQV9Ci9tF5KJt",
@@ -733,7 +791,9 @@
     "time_signature": 4,
     "ranking": "17",
     "date": "2022/1/10",
-    "artist": "Issei Uno Fifth & Rodeo"
+    "artist": "Issei Uno Fifth",
+    "genres": [],
+    "artist_uri": "3ChsBdunsttUJkFhSKRhfq"
   },
   {
     "id": "0mdk6AVb0zdArYx5OaM400",
@@ -797,7 +857,9 @@
     "time_signature": 4,
     "ranking": "13",
     "date": "2022/1/17",
-    "artist": "栗原正美"
+    "artist": "栗原正己",
+    "genres": ["kodomo no ongaku"],
+    "artist_uri": "4PUbqK8p5hZpUHqziQE6zK"
   },
   {
     "id": "2KqRO3dW7ERhyG16FuLI0n",
@@ -817,7 +879,9 @@
     "time_signature": 4,
     "ranking": "20",
     "date": "2022/4/18",
-    "artist": "しゃろう"
+    "artist": "しゃろう",
+    "genres": ["japanese viral pop"],
+    "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o"
   },
   {
     "id": "3uCkIqD0VzQUijbs8WIizs",
@@ -881,7 +945,9 @@
     "time_signature": 4,
     "ranking": "16",
     "date": "2022/3/28",
-    "artist": "七草くりむ"
+    "artist": "七草くりむ",
+    "genres": ["japanese viral pop"],
+    "artist_uri": "0sGCkyb5YJyxNdfkW7t4mw"
   },
   {
     "id": "2grjqo0Frpf2okIBiifQKs",
@@ -901,7 +967,9 @@
     "time_signature": 4,
     "ranking": "19",
     "date": "2022/2/7",
-    "artist": "アース・ウィンド&ファイアー"
+    "artist": "Earth, Wind & Fire",
+    "genres": ["disco", "funk", "jazz funk", "quiet storm", "soul"],
+    "artist_uri": "4QQgXkCYTt3BlENzhyNETg"
   },
   {
     "id": "6EuubEs5qOmJdpNhkU47OZ",
@@ -921,7 +989,9 @@
     "time_signature": 4,
     "ranking": "19",
     "date": "2022/3/7",
-    "artist": "幾田りら"
+    "artist": "Lilas Ikuta",
+    "genres": ["j-pop", "japanese teen pop"],
+    "artist_uri": "1qM11R4ylJyQiPJ0DffE9z"
   },
   {
     "id": "2rpVmxAGGc18wpBREaoE0R",
@@ -941,7 +1011,9 @@
     "time_signature": 4,
     "ranking": "12",
     "date": "2022/2/7",
-    "artist": "スタジオ・キラーズ"
+    "artist": "Studio Killers",
+    "genres": [],
+    "artist_uri": "7avo0PmlW8O1YLEt9DnWQT"
   },
   {
     "id": "1SH0BnKkEtLh8IcZnci79y",
@@ -961,7 +1033,9 @@
     "time_signature": 3,
     "ranking": "14",
     "date": "2022/2/21",
-    "artist": "ビタミン・ストリング・カルテット"
+    "artist": "Vitamin String Quartet",
+    "genres": ["bow pop"],
+    "artist_uri": "6MERXsiRbur2oJZFgYRDKz"
   },
   {
     "id": "0oqpKwNSfXhgnRfCPxay5Y",
@@ -1047,7 +1121,9 @@
     "time_signature": 4,
     "ranking": "19",
     "date": "2022/4/18",
-    "artist": "ダニー・エルフマン"
+    "artist": "Danny Elfman",
+    "genres": ["orchestral soundtrack", "soundtrack"],
+    "artist_uri": "5qBZETtyzfYnXOobDXbmcD"
   },
   {
     "id": "5bhhZDVT1UFZHvqce3OEQn",
@@ -1067,7 +1143,9 @@
     "time_signature": 4,
     "ranking": "8",
     "date": "2022/2/28",
-    "artist": "すとぷり"
+    "artist": "すとぷり",
+    "genres": ["j-division", "j-pop boy group"],
+    "artist_uri": "2i0kSiF991uhqOBfdKfB24"
   },
   {
     "id": "0xYSgQHddr1lh6IfqWgn2W",
@@ -1087,7 +1165,9 @@
     "time_signature": 4,
     "ranking": "18",
     "date": "2022/5/16",
-    "artist": "広瀬香美"
+    "artist": "Kohmi Hirose",
+    "genres": ["classic j-pop", "j-pop", "japanese singer-songwriter"],
+    "artist_uri": "0jMZY406RfgjK6PFKIRfAv"
   },
   {
     "id": "74PblUyepVjBlDEV1KzFh6",
@@ -1151,7 +1231,9 @@
     "time_signature": 4,
     "ranking": "20",
     "date": "2022/4/25",
-    "artist": "にしな"
+    "artist": "にしな",
+    "genres": ["j-pop", "japanese alternative rock", "japanese teen pop"],
+    "artist_uri": "2aoUBwmHWln0JSEZbi9E70"
   },
   {
     "id": "5Cz7o1cFQhCvBzq8foqIz0",
@@ -1193,7 +1275,9 @@
     "time_signature": 4,
     "ranking": "14",
     "date": "2022/4/4",
-    "artist": "フィンガー5"
+    "artist": "Finger 5",
+    "genres": ["kayokyoku", "okinawan pop"],
+    "artist_uri": "0yr7xw7vy6CHfrb7FqesC5"
   },
   {
     "id": "0QES2bxLgwxOfD7KF8l2ix",
@@ -1345,7 +1429,9 @@
     "time_signature": 4,
     "ranking": "15",
     "date": "2022/4/4",
-    "artist": "平井大"
+    "artist": "HIRAIDAI",
+    "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
+    "artist_uri": "7JthQ6zwNzfxRfIEjp6wUs"
   },
   {
     "id": "0UP2LfMahz2upMadwoqGfu",
@@ -1481,7 +1567,9 @@
     "time_signature": 4,
     "ranking": "7",
     "date": "2022/5/16",
-    "artist": "きゃりーぱみゅぱみゅ"
+    "artist": "Kyary Pamyu Pamyu",
+    "genres": ["j-idol", "japanese electropop"],
+    "artist_uri": "7Gh6fW49xfXLP8DTWaLVJP"
   },
   {
     "id": "5JptX8WFwejyeb6OuKL7wG",
@@ -1501,7 +1589,9 @@
     "time_signature": 4,
     "ranking": "19",
     "date": "2022/5/2",
-    "artist": "サカナクション"
+    "artist": "sakanaction",
+    "genres": ["hokkaido indie", "j-pop", "j-rock", "japanese electropop"],
+    "artist_uri": "0hCWVMGGQnRVfDgmhwLIxq"
   },
   {
     "id": "7gKTnSP2s0pPZe1NwBA8FB",
@@ -1631,7 +1721,9 @@
     "time_signature": 4,
     "ranking": "16",
     "date": "2022/4/25",
-    "artist": "緑黄色社会"
+    "artist": "Ryokuoushoku Shakai",
+    "genres": ["j-pop"],
+    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa"
   },
   {
     "id": "4WQJd6v3HIDGZnn2kJTEc9",
@@ -1673,7 +1765,9 @@
     "time_signature": 4,
     "ranking": "6",
     "date": "2022/5/2",
-    "artist": "広瀬香美"
+    "artist": "Kohmi Hirose",
+    "genres": ["classic j-pop", "j-pop", "japanese singer-songwriter"],
+    "artist_uri": "0jMZY406RfgjK6PFKIRfAv"
   },
   {
     "id": "6hDhcQg11LxCk3rcaRlyb6",
@@ -1715,7 +1809,9 @@
     "time_signature": 4,
     "ranking": "19",
     "date": "2022/5/9",
-    "artist": "緑黄色社会"
+    "artist": "Ryokuoushoku Shakai",
+    "genres": ["j-pop"],
+    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa"
   },
   {
     "id": "6nYezkgAePhAmnxNTQRsLV",
@@ -1777,8 +1873,8 @@
     "tempo": 117.968,
     "duration_ms": 253154,
     "time_signature": 4,
-    "ranking": "15",
-    "date": "2022/5/9",
+    "ranking": "4",
+    "date": "2022/5/16",
     "artist": "SEKAI NO OWARI",
     "genres": ["anime", "j-pop"],
     "artist_uri": "7HwzlRPa9Ad0I8rK0FPzzK"
@@ -1849,40 +1945,11 @@
     "genres": ["vgm remix"],
     "artist_uri": "6DNM2EfbLyKVLhHlvF5Zp4"
   },
-  {
-    "ranking": "2",
-    "title": "初心LOVE",
-    "artist": "なにわ男子",
-    "date": "2021/12/13"
-  },
-  {
-    "ranking": "17",
-    "title": "Athletic Meet \"Heaven and Hell\"",
-    "artist": "Shinonome",
-    "date": "2021/12/13"
-  },
-  {
-    "ranking": "4",
-    "title": "Christmas standard song",
-    "artist": "3KTrack",
-    "date": "2021/12/27"
-  },
-  {
-    "ranking": "12",
-    "title": "Athletic Meet \"Heaven and Hell\" (No Introduction)",
-    "artist": "Shinonome",
-    "date": "2021/12/27"
-  },
-  {
-    "ranking": "20",
-    "title": "すないぱー。",
-    "artist": "『ユイカ』",
-    "date": "2022/3/28"
-  },
-  {
-    "ranking": "16",
-    "title": "誰も知らない君を見せて",
-    "artist": "JOEMUSIC!!",
-    "date": "2022/5/16"
-  }
+  { "id": "", "title": "初心LOVE" },
+  { "id": "", "title": "Athletic Meet \"Heaven and Hell\"" },
+  { "id": "", "title": "Christmas standard song" },
+  { "id": "", "title": "Athletic Meet \"Heaven and Hell\" (No Introduction)" },
+  { "id": "", "title": "すないぱー。" },
+  { "id": "", "title": "Pokemon RBGY" },
+  { "id": "", "title": "誰も知らない君を見せて" }
 ]
