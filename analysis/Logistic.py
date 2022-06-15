@@ -39,8 +39,8 @@ df.dropna(subset=['danceability'], axis=0, inplace=True)
 
 # ランキングを01で
 df["ranking"] = df["ranking"].apply(ranking_convert)
-df["genres"] = df["genres"].apply(genres_vonvert)
-df = df[df['genres'] != 0]
+#df["genres"] = df["genres"].apply(genres_vonvert)
+#df = df[df['genres'] != 0]
 print(df['ranking'].value_counts())
 print("genres")
 print(df['genres'].value_counts())
@@ -49,18 +49,20 @@ print(df['genres'].value_counts())
 standard_sc = StandardScaler()
 
 # 01じゃないものを標準化
-X = df.loc[:, ['key', 'loudness', 'tempo', 'duration_ms', 'time_signature']]
+X = df.loc[:, ["tempo", "danceability", "energy", "mode", "loudness", "acousticness",
+               "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"]]
 X = standard_sc.fit_transform(X)
 
 # 標準化後のデータ出力
-df.loc[:, ['key', 'loudness', 'tempo', 'duration_ms', 'time_signature']] = X
+df.loc[:, ["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness",
+           "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"]] = X
 
 # print(df.head(3))
 
 
 # 説明変数
 X = df[["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness",
-        "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"]]
+        "instrumentalness", "liveness", "key", "valence", "time_signature"]]
 #"tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"
 
 # 目的変数
@@ -69,7 +71,7 @@ y = df["ranking"]
 
 # トレーニングデータおよびテストデータ分割
 X_train, X_test, Y_train, Y_test = train_test_split(
-    X, y, test_size=0.4, shuffle=True, random_state=3)
+    X, y, test_size=0.3, shuffle=True, random_state=3)
 
 
 # ロジスティック回帰のインスタンス
@@ -96,7 +98,7 @@ model.fit(X_train, Y_train)
 
 
 df_model = pd.DataFrame(
-    index=["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"])
+    index=["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness", "instrumentalness", "liveness", "key", "valence", "time_signature"])
 df_model["偏回帰係数"] = model.coef_[0]
 
 print(df_model)
