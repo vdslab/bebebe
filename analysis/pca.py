@@ -14,8 +14,14 @@ from pandas import plotting
 
 # データセット（train.csvを利用）
 df_tiktok = pd.read_json("../data/tiktok.json")
-df_spotify = pd.read_json("../data/spotify_100_200_data.json")
+df_spotify = pd.read_json("../data/spotify_187_200_tiktok_rm_data.json")
 df = pd.concat([df_tiktok, df_spotify])
+
+#df = pd.read_json("../data/tiktok.json")
+#df = pd.read_json("../data/spotify_187_200_tiktok_rm_data.json")
+#df = pd.read_json("../data/spotify_100_200_tiktok_rm_data.json")
+#df = df.sample(n=87)
+
 
 # tiktokランキングに入っているものが1, その他0
 
@@ -47,8 +53,8 @@ df["genres"] = df["genres"].apply(genres_vonvert)
 df = df[df['genres'] != 0]
 
 print(df['ranking'].value_counts())
-print("genres")
-print(df['genres'].value_counts())
+# print("genres")
+# print(df['genres'].value_counts())
 
 # 列を削除
 df = df.drop('id', axis=1)

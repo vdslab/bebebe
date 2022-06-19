@@ -396,28 +396,6 @@
     "artist_uri": "7JthQ6zwNzfxRfIEjp6wUs"
   },
   {
-    "id": "096qZRdXPOyvb5OP8NI7pw",
-    "title": "イージーゲーム",
-    "danceability": 0.605,
-    "energy": 0.909,
-    "key": 1,
-    "loudness": -2.483,
-    "mode": 0,
-    "speechiness": 0.13,
-    "acousticness": 0.227,
-    "instrumentalness": 0,
-    "liveness": 0.0497,
-    "valence": 0.901,
-    "tempo": 165.953,
-    "duration_ms": 183930,
-    "time_signature": 4,
-    "ranking": "121",
-    "date": "2021-12-30",
-    "artist": "natsumi",
-    "genres": ["japanese teen pop", "japanese viral pop"],
-    "artist_uri": "7GBDKoYYinEfOirEzLlHPK"
-  },
-  {
     "id": "0nW1Aes1arNyR1fzEKXS2m",
     "title": "シル・ヴ・プレジデント",
     "danceability": 0.647,
@@ -1018,28 +996,6 @@
     "artist_uri": "6bDWAcdtVR3WHz2xtiIPUi"
   },
   {
-    "id": "7fru0rxutpi08K7Q112saF",
-    "title": "Talking Box",
-    "danceability": 0.787,
-    "energy": 0.718,
-    "key": 8,
-    "loudness": -6.17,
-    "mode": 1,
-    "speechiness": 0.0395,
-    "acousticness": 0.00477,
-    "instrumentalness": 0.00107,
-    "liveness": 0.0895,
-    "valence": 0.47,
-    "tempo": 140.002,
-    "duration_ms": 141934,
-    "time_signature": 4,
-    "ranking": "189",
-    "date": "2021-12-30",
-    "artist": "WurtS",
-    "genres": ["j-pop"],
-    "artist_uri": "6oued35Hkg7GIEXqVfBrQK"
-  },
-  {
     "id": "5DMEvbg3gUmiR5HIBWdveV",
     "title": "ノーダウト",
     "danceability": 0.574,
@@ -1305,7 +1261,7 @@
     "ranking": "168",
     "date": "2021-12-30",
     "artist": "Uru",
-    "genres": null,
+    "genres": [],
     "artist_uri": "5kN3y5UAnvS6UoiBqBCvuB"
   },
   {
@@ -1393,7 +1349,7 @@
     "ranking": "148",
     "date": "2021-12-30",
     "artist": "Uru",
-    "genres": null,
+    "genres": [],
     "artist_uri": "6le80R1opKnTlP4o3KvA2k"
   },
   {
@@ -1901,28 +1857,6 @@
     "artist": "aespa",
     "genres": ["k-pop girl group"],
     "artist_uri": "6YVMFz59CuY7ngCxTxjpxE"
-  },
-  {
-    "id": "41GHAXwcqJcmP3Y1U4CoiJ",
-    "title": "ナイトオンザプラネット",
-    "danceability": 0.723,
-    "energy": 0.578,
-    "key": 4,
-    "loudness": -7.799,
-    "mode": 1,
-    "speechiness": 0.0374,
-    "acousticness": 0.361,
-    "instrumentalness": 0.000673,
-    "liveness": 0.0899,
-    "valence": 0.659,
-    "tempo": 176.09,
-    "duration_ms": 269667,
-    "time_signature": 4,
-    "ranking": "173",
-    "date": "2021-12-23",
-    "artist": "Creep Hyp",
-    "genres": ["j-pop", "j-rock"],
-    "artist_uri": "6POfB0fHdzXFLWL3RHxLv8"
   },
   {
     "id": "2YQ8TlTmNheRI3VafoDpod",
@@ -2624,28 +2558,6 @@
     "artist_uri": "4d3yvTptO48nOYTPBcPFZC"
   },
   {
-    "id": "3eg3igrhEhzk8bqqRz6XCt",
-    "title": "レオ",
-    "danceability": 0.629,
-    "energy": 0.543,
-    "key": 5,
-    "loudness": -6.281,
-    "mode": 1,
-    "speechiness": 0.0252,
-    "acousticness": 0.383,
-    "instrumentalness": 0,
-    "liveness": 0.127,
-    "valence": 0.403,
-    "tempo": 93.043,
-    "duration_ms": 238973,
-    "time_signature": 4,
-    "ranking": "133",
-    "date": "2022-01-20",
-    "artist": "Yuuri",
-    "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
-    "artist_uri": "0ixzjrK1wkN2zWBXt3VW3W"
-  },
-  {
     "id": "1ihCiJaXRl4f6Sy4LJov5z",
     "title": "チェリー",
     "danceability": 0.646,
@@ -2710,28 +2622,6 @@
     "artist": "V",
     "genres": ["melodic rap", "philly rap", "rap", "trap"],
     "artist_uri": "4O15NlyKLIASxsJ0PrXPfz"
-  },
-  {
-    "id": "3FmTrTjnEZ9ZX7b0LUPZYW",
-    "title": "Have a nice day",
-    "danceability": 0.85,
-    "energy": 0.591,
-    "key": 5,
-    "loudness": -4.73,
-    "mode": 1,
-    "speechiness": 0.0386,
-    "acousticness": 0.371,
-    "instrumentalness": 3.99e-6,
-    "liveness": 0.117,
-    "valence": 0.564,
-    "tempo": 94.018,
-    "duration_ms": 175693,
-    "time_signature": 4,
-    "ranking": "184",
-    "date": "2022-02-17",
-    "artist": "imase",
-    "genres": ["japanese teen pop"],
-    "artist_uri": "4TaSvnT5o4REFwhqfrmK27"
   },
   {
     "id": "45Qz90khfSW8AnaH9vNg5j",
@@ -2965,28 +2855,6 @@
     "artist_uri": "6F3NW2aC9Sni1FH7QPSLvw"
   },
   {
-    "id": "0O4YelF6Zneq7sk1Ye73N2",
-    "title": "キャラクター",
-    "danceability": 0.65,
-    "energy": 0.913,
-    "key": 5,
-    "loudness": -2.147,
-    "mode": 1,
-    "speechiness": 0.0758,
-    "acousticness": 0.15,
-    "instrumentalness": 0,
-    "liveness": 0.345,
-    "valence": 0.594,
-    "tempo": 124.025,
-    "duration_ms": 249427,
-    "time_signature": 4,
-    "ranking": "126",
-    "date": "2022-04-28",
-    "artist": "Ryokuoushoku Shakai",
-    "genres": ["j-pop"],
-    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa"
-  },
-  {
     "id": "3J34JtfZNylVXSKN4TDf12",
     "title": "明け星",
     "danceability": 0.389,
@@ -3027,7 +2895,7 @@
     "ranking": "189",
     "date": "2022-04-21",
     "artist": "GOT the beat",
-    "genres": null,
+    "genres": [],
     "artist_uri": "5z6jvAiSsqhNVUZLjALMRP"
   },
   {
@@ -3956,7 +3824,7 @@
     "ranking": "177",
     "date": "2022-02-24",
     "artist": "TREASURE",
-    "genres": null,
+    "genres": [],
     "artist_uri": "3KonOYiLsU53m4yT7gNotP"
   },
   {
@@ -4070,28 +3938,6 @@
     "artist_uri": "38WbKH6oKAZskBhqDFA8Uj"
   },
   {
-    "id": "609ZaFJuwGmqSsCDFCYIwG",
-    "title": "3月の帰り道",
-    "danceability": 0.676,
-    "energy": 0.406,
-    "key": 2,
-    "loudness": -7.104,
-    "mode": 1,
-    "speechiness": 0.0327,
-    "acousticness": 0.597,
-    "instrumentalness": 0,
-    "liveness": 0.201,
-    "valence": 0.498,
-    "tempo": 139.957,
-    "duration_ms": 218820,
-    "time_signature": 4,
-    "ranking": "120",
-    "date": "2022-03-10",
-    "artist": "HIRAIDAI",
-    "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
-    "artist_uri": "7JthQ6zwNzfxRfIEjp6wUs"
-  },
-  {
     "id": "7CAdT0HdiQNlt1C7xk2hep",
     "title": "Stay Alive (Prod. SUGA of BTS)",
     "danceability": 0.512,
@@ -4110,7 +3956,7 @@
     "ranking": "148",
     "date": "2022-03-10",
     "artist": "Jung Kook",
-    "genres": null,
+    "genres": [],
     "artist_uri": "6HaGTQPmzraVmaVxvz6EUc"
   },
   {
@@ -4252,7 +4098,7 @@
     "ranking": "190",
     "date": "2022-05-12",
     "artist": "TREASURE",
-    "genres": null,
+    "genres": [],
     "artist_uri": "3KonOYiLsU53m4yT7gNotP"
   },
   {
@@ -4298,28 +4144,6 @@
     "artist": "Higuchi Ai",
     "genres": ["japanese alternative pop"],
     "artist_uri": "4GxWcui9BlMJH9VOOK5wav"
-  },
-  {
-    "id": "7sRYDTjWTX00fd9BCOflLo",
-    "title": "ホワイトキス",
-    "danceability": 0.704,
-    "energy": 0.797,
-    "key": 1,
-    "loudness": -4.7,
-    "mode": 1,
-    "speechiness": 0.0505,
-    "acousticness": 0.133,
-    "instrumentalness": 0,
-    "liveness": 0.284,
-    "valence": 0.619,
-    "tempo": 110.003,
-    "duration_ms": 274860,
-    "time_signature": 4,
-    "ranking": "198",
-    "date": "2022-05-26",
-    "artist": "鈴木鈴木",
-    "genres": ["japanese classical performance"],
-    "artist_uri": "5YnNfqofR6jjU2DDoGfh2h"
   },
   {
     "id": "0ve9Tpz8Yw0I4eXhWsy21o",
@@ -5464,28 +5288,6 @@
     "artist_uri": "6KImCVD70vtIoJWnq6nGn3"
   },
   {
-    "id": "0Q5VnK2DYzRyfqQRJuUtvi",
-    "title": "LOVE DIVE",
-    "danceability": 0.703,
-    "energy": 0.709,
-    "key": 1,
-    "loudness": -4.169,
-    "mode": 0,
-    "speechiness": 0.0433,
-    "acousticness": 0.00379,
-    "instrumentalness": 5.43e-5,
-    "liveness": 0.333,
-    "valence": 0.538,
-    "tempo": 117.941,
-    "duration_ms": 177187,
-    "time_signature": 4,
-    "ranking": "127",
-    "date": "2022-04-07",
-    "artist": "IVE",
-    "genres": ["eau claire indie", "indie folk", "melancholia"],
-    "artist_uri": "4LEiUm1SRbFMgfqnQTwUbQ"
-  },
-  {
     "id": "2oBMZYteeO8DyXV9gDx6Za",
     "title": "Feel My Rhythm",
     "danceability": 0.412,
@@ -5728,28 +5530,6 @@
     "artist_uri": "70nxnxEqDQIEWneRjg2Q4O"
   },
   {
-    "id": "43PlsJn27zRG2KjpL12eb7",
-    "title": "陽はまた昇るから",
-    "danceability": 0.576,
-    "energy": 0.944,
-    "key": 6,
-    "loudness": -2.409,
-    "mode": 1,
-    "speechiness": 0.06,
-    "acousticness": 0.0541,
-    "instrumentalness": 0,
-    "liveness": 0.334,
-    "valence": 0.727,
-    "tempo": 142.04,
-    "duration_ms": 266373,
-    "time_signature": 4,
-    "ranking": "139",
-    "date": "2022-06-02",
-    "artist": "Ryokuoushoku Shakai",
-    "genres": ["j-pop"],
-    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa"
-  },
-  {
     "id": "0MnPdlWm7MSSUnEamZp5lX",
     "title": "星が泳ぐ",
     "danceability": 0.566,
@@ -5795,7 +5575,7 @@
     "ranking": "134",
     "date": "2022-04-21",
     "artist": "Kyanai",
-    "genres": null,
+    "genres": [],
     "artist_uri": "42ogLtXLVjZryRz9j1zvOm"
   },
   {
@@ -5819,28 +5599,6 @@
     "artist": "BIGBANG",
     "genres": ["k-pop", "k-pop boy group"],
     "artist_uri": "4Kxlr1PRlDKEB0ekOCyHgX"
-  },
-  {
-    "id": "7oCZ1O1L4TuLRnmt8Io4IU",
-    "title": "永遠",
-    "danceability": 0.373,
-    "energy": 0.53,
-    "key": 1,
-    "loudness": -6.537,
-    "mode": 1,
-    "speechiness": 0.0313,
-    "acousticness": 0.0962,
-    "instrumentalness": 0,
-    "liveness": 0.0824,
-    "valence": 0.29,
-    "tempo": 159.693,
-    "duration_ms": 372309,
-    "time_signature": 4,
-    "ranking": "163",
-    "date": "2022-05-26",
-    "artist": "Mr.Children",
-    "genres": ["classic j-pop", "j-pop", "j-rock"],
-    "artist_uri": "1qma7XhwZotCAucL7NHVLY"
   },
   {
     "id": "4McP7SOTK2NWkydOcDCajC",
@@ -5993,7 +5751,7 @@
     "ranking": "183",
     "date": "2022-05-12",
     "artist": "Jimin",
-    "genres": null,
+    "genres": [],
     "artist_uri": "1oSPZhvZMIrWW5I41kPkkY"
   },
   {
@@ -6151,28 +5909,6 @@
     "artist_uri": "4SpbR6yFEvexJuaBpgAU5p"
   },
   {
-    "id": "5JptX8WFwejyeb6OuKL7wG",
-    "title": "ショック!",
-    "danceability": 0.609,
-    "energy": 0.959,
-    "key": 11,
-    "loudness": -4.127,
-    "mode": 0,
-    "speechiness": 0.0875,
-    "acousticness": 0.0702,
-    "instrumentalness": 0.561,
-    "liveness": 0.192,
-    "valence": 0.845,
-    "tempo": 136.005,
-    "duration_ms": 308947,
-    "time_signature": 4,
-    "ranking": "157",
-    "date": "2022-05-12",
-    "artist": "sakanaction",
-    "genres": ["hokkaido indie", "j-pop", "j-rock", "japanese electropop"],
-    "artist_uri": "0hCWVMGGQnRVfDgmhwLIxq"
-  },
-  {
     "id": "13EtMetztrji5zrka6Uzd3",
     "title": "Bubble feat.Uta",
     "danceability": 0.541,
@@ -6267,28 +6003,6 @@
     "artist_uri": "4vN78fN1iEh83Pgaesw2jU"
   },
   {
-    "id": "5Y0JbLOPLfWdWTQHJPJtEx",
-    "title": "タイミング ~Timing~",
-    "danceability": 0.756,
-    "energy": 0.607,
-    "key": 10,
-    "loudness": -5.01,
-    "mode": 0,
-    "speechiness": 0.0376,
-    "acousticness": 0.114,
-    "instrumentalness": 2.15e-5,
-    "liveness": 0.039,
-    "valence": 0.713,
-    "tempo": 124.005,
-    "duration_ms": 200823,
-    "time_signature": 4,
-    "ranking": "173",
-    "date": "2022-05-12",
-    "artist": "Klang Ruler",
-    "genres": ["japanese pop rap"],
-    "artist_uri": "7dGWpqSL5xaZjWbo3UWXyU"
-  },
-  {
     "id": "2BgEsaKNfHUdlh97KmvFyo",
     "title": "2002",
     "danceability": 0.697,
@@ -6316,28 +6030,6 @@
       "uk pop"
     ],
     "artist_uri": "1zNqDE7qDGCsyzJwohVaoX"
-  },
-  {
-    "id": "4rdmyc70mJQEfhKeiFDLFZ",
-    "title": "ASOBO",
-    "danceability": 0.853,
-    "energy": 0.719,
-    "key": 10,
-    "loudness": -4.714,
-    "mode": 1,
-    "speechiness": 0.0676,
-    "acousticness": 0.0812,
-    "instrumentalness": 0.00151,
-    "liveness": 0.241,
-    "valence": 0.79,
-    "tempo": 118.007,
-    "duration_ms": 181078,
-    "time_signature": 4,
-    "ranking": "170",
-    "date": "2022-05-19",
-    "artist": "NiziU",
-    "genres": ["j-pop"],
-    "artist_uri": "3z8diLlUCkN1j9N9ZdnfBJ"
   },
   {
     "id": "3l2O4IuJ4DFEfUwDdWyPnf",
@@ -6402,7 +6094,7 @@
     "ranking": "115",
     "date": "2022-06-02",
     "artist": "汐れいら",
-    "genres": null,
+    "genres": [],
     "artist_uri": "6GVsZoMbMt0jmqwcvz1a1F"
   },
   {
@@ -6722,7 +6414,7 @@
     "ranking": "160",
     "date": "2022-05-26",
     "artist": "Akihito Okano",
-    "genres": null,
+    "genres": [],
     "artist_uri": "1ioDAlx6i5snCxm2z9ZnUD"
   },
   {
@@ -6788,7 +6480,7 @@
     "ranking": "102",
     "date": "2022-06-02",
     "artist": "有華",
-    "genres": null,
+    "genres": [],
     "artist_uri": "762RAUTV6WKHmrHR7fsFbj"
   },
   {
@@ -6974,7 +6666,7 @@
     "ranking": "152",
     "date": "2022-06-02",
     "artist": "YOAKE",
-    "genres": null,
+    "genres": [],
     "artist_uri": "0psEe4IooMjolOPMrz9A5M"
   },
   {
@@ -7304,7 +6996,7 @@
     "ranking": "158",
     "date": "2021-12-02",
     "artist": "BoyWithUke",
-    "genres": null,
+    "genres": [],
     "artist_uri": "1Cd373x8qzC7SNUg5IToqp"
   },
   {
@@ -7424,28 +7116,6 @@
     "artist": "SEVENTEEN",
     "genres": ["k-pop", "k-pop boy group"],
     "artist_uri": "7nqOGRxlXj7N2JYbgNEjYH"
-  },
-  {
-    "id": "2pD1Smkp93TSJy3nwsv6gn",
-    "title": "これからのこと",
-    "danceability": 0.496,
-    "energy": 0.622,
-    "key": 10,
-    "loudness": -4.358,
-    "mode": 1,
-    "speechiness": 0.0587,
-    "acousticness": 0.00436,
-    "instrumentalness": 0,
-    "liveness": 0.177,
-    "valence": 0.88,
-    "tempo": 179.91,
-    "duration_ms": 238832,
-    "time_signature": 4,
-    "ranking": "180",
-    "date": "2021-12-02",
-    "artist": "ケプラ",
-    "genres": ["japanese viral pop"],
-    "artist_uri": "1vJQ33eLhZQw9PHiHoA8ZJ"
   },
   {
     "id": "4grVYKKkBF1oxFlzLokRKN",
@@ -7720,28 +7390,6 @@
     "artist": "BTS",
     "genres": ["k-pop", "k-pop boy group"],
     "artist_uri": "3Nrfpe0tUJi4K4DXYWgMUX"
-  },
-  {
-    "id": "6YBcbXDYIITuyCEN2YwGRy",
-    "title": "Doughnut",
-    "danceability": 0.693,
-    "energy": 0.586,
-    "key": 5,
-    "loudness": -6.098,
-    "mode": 0,
-    "speechiness": 0.0315,
-    "acousticness": 0.233,
-    "instrumentalness": 0,
-    "liveness": 0.145,
-    "valence": 0.459,
-    "tempo": 82.039,
-    "duration_ms": 263680,
-    "time_signature": 4,
-    "ranking": "195",
-    "date": "2021-12-30",
-    "artist": "TWICE",
-    "genres": ["k-pop", "k-pop girl group"],
-    "artist_uri": "7n2Ycct7Beij7Dj7meI4X0"
   },
   {
     "id": "3RpFwqdROrxJvHywpT1pJ4",
@@ -8030,7 +7678,7 @@
     "ranking": "194",
     "date": "2021-12-23",
     "artist": "The Rossman Ensemble",
-    "genres": null,
+    "genres": [],
     "artist_uri": "7MmIC8lbUdmL6c05M63KF6"
   },
   {

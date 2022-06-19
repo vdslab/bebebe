@@ -11,7 +11,7 @@ import seaborn as sns
 
 # データセット（train.csvを利用）
 df_tiktok = pd.read_json("../data/tiktok.json")
-df_spotify = pd.read_json("../data/spotify_100_200_data.json")
+df_spotify = pd.read_json("../data/spotify_187_200_tiktok_rm_data.json")
 df = pd.concat([df_tiktok, df_spotify])
 
 # tiktokランキングに入っているものが1, その他0
@@ -71,7 +71,7 @@ y = df["ranking"]
 
 # トレーニングデータおよびテストデータ分割
 X_train, X_test, Y_train, Y_test = train_test_split(
-    X, y, test_size=0.3, shuffle=True, random_state=3)
+    X, y, test_size=0.5, shuffle=True, random_state=3)
 
 
 # ロジスティック回帰のインスタンス
