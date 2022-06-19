@@ -1,11 +1,11 @@
 from pykakasi import kakasi
 import re
 
-with open("./analysis/rhyme_word/ブラザービート.txt", "r", encoding="utf-8") as f:
+with open("./analysis/rhyme_word/Habit.txt", "r", encoding="utf-8") as f:
     data = f.read()
 
 data_sp = data.split()
-target_word_origin = "ブラザービート"
+target_word_origin = "Habit"
 
 kakasi = kakasi()
 
@@ -14,15 +14,17 @@ kakasi.setMode('K', 'a')
 kakasi.setMode('J', 'a')
 
 conv = kakasi.getConverter()
-
+# ローマ字へ変換
 target_word = conv.do(target_word_origin)
 text_data = conv.do(data).split()
 text_data = list(text_data)
-
+# 母音のみ残す
 target_word_vo = re.sub(r"[^aeiou]+", "", target_word)
 vowel_data = [re.sub(r"[^aeiou]+", "", text) for text in text_data]
-
+# vowel_dataのインデックスで母音変換前のdataが分かるように辞書作成。
 dic = {k: v for k, v in enumerate(data_sp)}
+
+# 短い方のwordをスライスし、他方にそれが含まれていた場合「韻」と見なし、その長さをスコアとして加算する
 
 
 def make_score(word_a, word_b):
@@ -40,6 +42,8 @@ def make_score(word_a, word_b):
                 if word_a[i:j] in word_b:
                     score += len(word_a[i:j])
     return score
+
+# 母音のみにしたデータと任意の言葉を渡し、元の言葉が分かるようにインデックスとスコアをセットで取得。
 
 
 def get_idx_score(vowel_data, target_word):
