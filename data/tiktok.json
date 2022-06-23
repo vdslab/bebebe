@@ -15,8 +15,8 @@
     "tempo": 158.016,
     "duration_ms": 179241,
     "time_signature": 4,
-    "ranking": "1",
-    "date": "2021/12/13",
+    "ranking": "17",
+    "date": "2022/3/14",
     "artist": "音莉飴",
     "genres": ["japanese teen pop", "jirai kei"],
     "artist_uri": "48cmBTHGDXpbMmImSbBprJ"
@@ -37,8 +37,8 @@
     "tempo": 139.994,
     "duration_ms": 158995,
     "time_signature": 4,
-    "ranking": "1",
-    "date": "2021/12/20",
+    "ranking": "20",
+    "date": "2022/2/14",
     "artist": "T-STONE",
     "genres": ["album rock", "british invasion", "classic rock", "rock"],
     "artist_uri": "22bE4uQ6baNwSHPVcDxLCe"
@@ -59,8 +59,8 @@
     "tempo": 110.003,
     "duration_ms": 274860,
     "time_signature": 4,
-    "ranking": "4",
-    "date": "2021/12/13",
+    "ranking": "9",
+    "date": "2022/1/3",
     "artist": "鈴木鈴木",
     "genres": ["japanese classical performance"],
     "artist_uri": "5YnNfqofR6jjU2DDoGfh2h"
@@ -157,8 +157,8 @@
     "ranking": "19",
     "date": "2022/5/16",
     "artist": "natsumi",
-    "genres": ["japanese teen pop", "japanese viral pop"],
-    "artist_uri": "7GBDKoYYinEfOirEzLlHPK"
+    "genres": [],
+    "artist_uri": "3faWjSGISqopPb4VqxHWaZ"
   },
   {
     "id": "2pD1Smkp93TSJy3nwsv6gn",
@@ -814,8 +814,8 @@
     "ranking": "13",
     "date": "2022/1/31",
     "artist": "阿部真央",
-    "genres": ["j-pop", "j-poprock", "j-rock", "japanese singer-songwriter"],
-    "artist_uri": "5ajce5LoM5SK6a6zzyF4My"
+    "genres": [],
+    "artist_uri": "6eL9TA0jKegToqUY2gaQ8G"
   },
   {
     "id": "3SU6QfO8sxcXi6XcUpSlHy",
@@ -836,8 +836,8 @@
     "ranking": "14",
     "date": "2022/2/14",
     "artist": "あかね",
-    "genres": ["japanese teen pop", "jirai kei"],
-    "artist_uri": "48cmBTHGDXpbMmImSbBprJ"
+    "genres": [],
+    "artist_uri": "7E61BhEMgngwg7EPgS17vl"
   },
   {
     "id": "0EWX020g7fvoErmWlr5MwU",
@@ -902,8 +902,8 @@
     "ranking": "8",
     "date": "2022/1/24",
     "artist": "ニコ",
-    "genres": ["anime", "j-pop", "j-poprock", "j-rock"],
-    "artist_uri": "16FpDRuy5xMHpuLYZV0Hkt"
+    "genres": [],
+    "artist_uri": "7KRzrbcoxso3s8634q1Y7p"
   },
   {
     "id": "4gdiCHNbwugojBqr5Jt3pq",
@@ -1100,7 +1100,7 @@
     "ranking": "10",
     "date": "2022/2/21",
     "artist": "優里",
-    "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
+    "genres": [],
     "artist_uri": "06xiwRrOYpawlayhiTU6Tr"
   },
   {
@@ -1612,8 +1612,8 @@
     "ranking": "20",
     "date": "2022/4/11",
     "artist": "ゆず",
-    "genres": ["j-acoustic", "j-pop", "j-poprock", "j-rock"],
-    "artist_uri": "7lNFzeAXmSIKexINNgO6bu"
+    "genres": [],
+    "artist_uri": "7J2VS4q5NrXBwIj5di5ZCF"
   },
   {
     "id": "0TQpPhA1OBrVGIfaKShRrx",
@@ -1788,8 +1788,8 @@
     "ranking": "5",
     "date": "2022/5/9",
     "artist": "りりあ。",
-    "genres": ["japanese teen pop"],
-    "artist_uri": "1J6OD7vLbjEuFVgVRlusmS"
+    "genres": [],
+    "artist_uri": "1JyA4TFld3mybh8Viy3Nmc"
   },
   {
     "id": "0O4YelF6Zneq7sk1Ye73N2",
@@ -1945,7 +1945,7 @@
     "genres": ["vgm remix"],
     "artist_uri": "6DNM2EfbLyKVLhHlvF5Zp4"
   },
-  { "id": "", "title": "初心LOVE", "ranking": "2" },
+  { "id": "", "title": "初心LOVE" },
   { "id": "", "title": "Athletic Meet \"Heaven and Hell\"" },
   { "id": "", "title": "Christmas standard song" },
   { "id": "", "title": "Athletic Meet \"Heaven and Hell\" (No Introduction)" },
