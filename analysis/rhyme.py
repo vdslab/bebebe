@@ -6,6 +6,7 @@ with open("./analysis/rhyme_word/Habit.txt", "r", encoding="utf-8") as f:
 
 data_sp = data.split()
 target_word_origin = "Habit"
+#target_word_originを韻踏んでるところを知りたいワードにする。
 
 kakasi = kakasi()
 
