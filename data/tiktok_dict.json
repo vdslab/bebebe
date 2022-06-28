@@ -19,7 +19,8 @@
     "date": "2021/12/13",
     "artist": "音莉飴",
     "genres": ["japanese teen pop", "jirai kei"],
-    "artist_uri": "48cmBTHGDXpbMmImSbBprJ"
+    "artist_uri": "48cmBTHGDXpbMmImSbBprJ",
+    "count": 14
   },
   "0ai7K2rYiFvCOBCEdC9Qfm": {
     "id": "0ai7K2rYiFvCOBCEdC9Qfm",
@@ -41,7 +42,8 @@
     "date": "2021/12/20",
     "artist": "T-STONE",
     "genres": ["album rock", "british invasion", "classic rock", "rock"],
-    "artist_uri": "22bE4uQ6baNwSHPVcDxLCe"
+    "artist_uri": "22bE4uQ6baNwSHPVcDxLCe",
+    "count": 10
   },
   "7sRYDTjWTX00fd9BCOflLo": {
     "id": "7sRYDTjWTX00fd9BCOflLo",
@@ -63,7 +65,8 @@
     "date": "2021/12/13",
     "artist": "鈴木鈴木",
     "genres": ["japanese classical performance"],
-    "artist_uri": "5YnNfqofR6jjU2DDoGfh2h"
+    "artist_uri": "5YnNfqofR6jjU2DDoGfh2h",
+    "count": 4
   },
   "6qn31XzTa6YKXs5FZpAPgP": {
     "id": "6qn31XzTa6YKXs5FZpAPgP",
@@ -85,7 +88,8 @@
     "date": "2021/12/13",
     "artist": "Chippoke Ohashi",
     "genres": ["j-pop", "japanese alternative pop"],
-    "artist_uri": "3QWnDVzCzffmWoYCAGNajE"
+    "artist_uri": "3QWnDVzCzffmWoYCAGNajE",
+    "count": 3
   },
   "5x67EAHDrso2bSXy5HWx0j": {
     "id": "5x67EAHDrso2bSXy5HWx0j",
@@ -107,7 +111,8 @@
     "date": "2021/12/13",
     "artist": "たかやん",
     "genres": ["men chika"],
-    "artist_uri": "79JgYJHiBUZcvYqOC5Zufn"
+    "artist_uri": "79JgYJHiBUZcvYqOC5Zufn",
+    "count": 5
   },
   "4s4c5EF1ujgsPPn4NRNwGL": {
     "id": "4s4c5EF1ujgsPPn4NRNwGL",
@@ -136,7 +141,8 @@
       "rap rock",
       "west coast rap"
     ],
-    "artist_uri": "4P0dddbxPil35MNN9G2MEX"
+    "artist_uri": "4P0dddbxPil35MNN9G2MEX",
+    "count": 6
   },
   "096qZRdXPOyvb5OP8NI7pw": {
     "id": "096qZRdXPOyvb5OP8NI7pw",
@@ -158,7 +164,8 @@
     "date": "2021/12/13",
     "artist": "natsumi",
     "genres": ["japanese teen pop", "japanese viral pop"],
-    "artist_uri": "7GBDKoYYinEfOirEzLlHPK"
+    "artist_uri": "7GBDKoYYinEfOirEzLlHPK",
+    "count": 6
   },
   "2pD1Smkp93TSJy3nwsv6gn": {
     "id": "2pD1Smkp93TSJy3nwsv6gn",
@@ -180,7 +187,8 @@
     "date": "2021/12/13",
     "artist": "ケプラ",
     "genres": ["japanese viral pop"],
-    "artist_uri": "1vJQ33eLhZQw9PHiHoA8ZJ"
+    "artist_uri": "1vJQ33eLhZQw9PHiHoA8ZJ",
+    "count": 2
   },
   "7fru0rxutpi08K7Q112saF": {
     "id": "7fru0rxutpi08K7Q112saF",
@@ -202,7 +210,8 @@
     "date": "2021/12/13",
     "artist": "WurtS",
     "genres": ["j-pop"],
-    "artist_uri": "6oued35Hkg7GIEXqVfBrQK"
+    "artist_uri": "6oued35Hkg7GIEXqVfBrQK",
+    "count": 2
   },
   "41GHAXwcqJcmP3Y1U4CoiJ": {
     "id": "41GHAXwcqJcmP3Y1U4CoiJ",
@@ -224,7 +233,8 @@
     "date": "2021/12/13",
     "artist": "Creep Hyp",
     "genres": ["j-pop", "j-rock"],
-    "artist_uri": "6POfB0fHdzXFLWL3RHxLv8"
+    "artist_uri": "6POfB0fHdzXFLWL3RHxLv8",
+    "count": 1
   },
   "0eu4C55hL6x29mmeAjytzC": {
     "id": "0eu4C55hL6x29mmeAjytzC",
@@ -246,7 +256,8 @@
     "date": "2021/12/20",
     "artist": "Oliver Tree",
     "genres": ["alternative hip hop"],
-    "artist_uri": "6TLwD7HPWuiOzvXEa3oCNe"
+    "artist_uri": "6TLwD7HPWuiOzvXEa3oCNe",
+    "count": 2
   },
   "0FOVGBW0RpVRuDuUuN4ZVw": {
     "id": "0FOVGBW0RpVRuDuUuN4ZVw",
@@ -268,7 +279,8 @@
     "date": "2021/12/13",
     "artist": "MAISONdes",
     "genres": ["j-pop", "japanese teen pop"],
-    "artist_uri": "7LTiBdByoaUd329wCpmMcM"
+    "artist_uri": "7LTiBdByoaUd329wCpmMcM",
+    "count": 2
   },
   "1y4eb6hmAvsqlDOl3fx9kk": {
     "id": "1y4eb6hmAvsqlDOl3fx9kk",
@@ -290,7 +302,8 @@
     "date": "2021/12/20",
     "artist": "Katy Perry",
     "genres": ["dance pop", "pop", "post-teen pop"],
-    "artist_uri": "6jJ0s89eD6GaHleKKya26X"
+    "artist_uri": "6jJ0s89eD6GaHleKKya26X",
+    "count": 3
   },
   "4Jp1oze46OeCkvGhvL7Inc": {
     "id": "4Jp1oze46OeCkvGhvL7Inc",
@@ -312,7 +325,8 @@
     "date": "2022/4/4",
     "artist": "Hari Supiko",
     "genres": ["japanese viral pop"],
-    "artist_uri": "3pOsiXCs15cciauqipr975"
+    "artist_uri": "3pOsiXCs15cciauqipr975",
+    "count": 23
   },
   "0iotyDF6RF5klVLztERO5Z": {
     "id": "0iotyDF6RF5klVLztERO5Z",
@@ -334,7 +348,8 @@
     "date": "2021/12/13",
     "artist": "imase",
     "genres": ["japanese teen pop"],
-    "artist_uri": "4TaSvnT5o4REFwhqfrmK27"
+    "artist_uri": "4TaSvnT5o4REFwhqfrmK27",
+    "count": 1
   },
   "4UeWKazLR1ZwwSVnLw9Ir9": {
     "id": "4UeWKazLR1ZwwSVnLw9Ir9",
@@ -356,7 +371,8 @@
     "date": "2021/12/13",
     "artist": "Vaundy",
     "genres": ["j-pop", "japanese soul"],
-    "artist_uri": "2IUl3m1H1EQ7QfNbNWvgru"
+    "artist_uri": "2IUl3m1H1EQ7QfNbNWvgru",
+    "count": 1
   },
   "4o75TymV0gfXskxy1uVOhD": {
     "id": "4o75TymV0gfXskxy1uVOhD",
@@ -378,7 +394,8 @@
     "date": "2021/12/20",
     "artist": "ピアニカの魔術師",
     "genres": [],
-    "artist_uri": "0vDdKDjHoPSopjedHbmz1v"
+    "artist_uri": "0vDdKDjHoPSopjedHbmz1v",
+    "count": 8
   },
   "3RBae3FyAQbpevUMDK4Jvr": {
     "id": "3RBae3FyAQbpevUMDK4Jvr",
@@ -400,7 +417,8 @@
     "date": "2022/2/14",
     "artist": "SHISE",
     "genres": ["japanese pop rap"],
-    "artist_uri": "4cEW3r3jrgiGUnIh6ipaAE"
+    "artist_uri": "4cEW3r3jrgiGUnIh6ipaAE",
+    "count": 6
   },
   "31Xl7EkoKqnCrEig0IJ9zw": {
     "id": "31Xl7EkoKqnCrEig0IJ9zw",
@@ -422,7 +440,8 @@
     "date": "2021/12/20",
     "artist": "Sam Ock",
     "genres": ["ambeat"],
-    "artist_uri": "0823FxAYBXOeMTOWPeH9HH"
+    "artist_uri": "0823FxAYBXOeMTOWPeH9HH",
+    "count": 4
   },
   "6YBcbXDYIITuyCEN2YwGRy": {
     "id": "6YBcbXDYIITuyCEN2YwGRy",
@@ -444,7 +463,8 @@
     "date": "2021/12/20",
     "artist": "TWICE",
     "genres": ["k-pop", "k-pop girl group"],
-    "artist_uri": "7n2Ycct7Beij7Dj7meI4X0"
+    "artist_uri": "7n2Ycct7Beij7Dj7meI4X0",
+    "count": 1
   },
   "3ck6DbwKM4maTik8s7j3s4": {
     "id": "3ck6DbwKM4maTik8s7j3s4",
@@ -466,7 +486,8 @@
     "date": "2022/1/10",
     "artist": "sloppy dim",
     "genres": ["japanese pop rap"],
-    "artist_uri": "6uMBnBtHeJmhc2tx1vDCae"
+    "artist_uri": "6uMBnBtHeJmhc2tx1vDCae",
+    "count": 7
   },
   "18IwlUCETTJSrS0fYkZGEo": {
     "id": "18IwlUCETTJSrS0fYkZGEo",
@@ -488,7 +509,8 @@
     "date": "2022/1/17",
     "artist": "Meghan Trainor",
     "genres": ["dance pop", "hip pop", "pop", "post-teen pop"],
-    "artist_uri": "6JL8zeS1NmiOftqZTRgdTz"
+    "artist_uri": "6JL8zeS1NmiOftqZTRgdTz",
+    "count": 14
   },
   "3FmTrTjnEZ9ZX7b0LUPZYW": {
     "id": "3FmTrTjnEZ9ZX7b0LUPZYW",
@@ -510,7 +532,8 @@
     "date": "2021/12/27",
     "artist": "imase",
     "genres": ["japanese teen pop"],
-    "artist_uri": "4TaSvnT5o4REFwhqfrmK27"
+    "artist_uri": "4TaSvnT5o4REFwhqfrmK27",
+    "count": 2
   },
   "29U7JwslGa0rRGHZX0tHm4": {
     "id": "29U7JwslGa0rRGHZX0tHm4",
@@ -538,7 +561,8 @@
       "japanese pop punk",
       "japanese punk rock"
     ],
-    "artist_uri": "6YqdtpUutxodni6lUD4stM"
+    "artist_uri": "6YqdtpUutxodni6lUD4stM",
+    "count": 1
   },
   "66a0Ib85gRjtZmac4HFsvw": {
     "id": "66a0Ib85gRjtZmac4HFsvw",
@@ -560,7 +584,8 @@
     "date": "2022/5/9",
     "artist": "Orangestar",
     "genres": ["vocaloid"],
-    "artist_uri": "420aixNZr4paRQmuRXz3DS"
+    "artist_uri": "420aixNZr4paRQmuRXz3DS",
+    "count": 16
   },
   "7n2FZQsaLb7ZRfRPfEeIvr": {
     "id": "7n2FZQsaLb7ZRfRPfEeIvr",
@@ -582,7 +607,8 @@
     "date": "2021/12/27",
     "artist": "IVE",
     "genres": ["eau claire indie", "indie folk", "melancholia"],
-    "artist_uri": "4LEiUm1SRbFMgfqnQTwUbQ"
+    "artist_uri": "4LEiUm1SRbFMgfqnQTwUbQ",
+    "count": 2
   },
   "1xFQ5lKWILBjqnyX4RgI8d": {
     "id": "1xFQ5lKWILBjqnyX4RgI8d",
@@ -604,7 +630,8 @@
     "date": "2022/1/31",
     "artist": "湊あくあ",
     "genres": ["hololive", "japanese vtuber", "jirai kei"],
-    "artist_uri": "6GHr4rGFHGRUuzuCuxJA0f"
+    "artist_uri": "6GHr4rGFHGRUuzuCuxJA0f",
+    "count": 15
   },
   "2G2X5AMqBRE2PgS3qCWfqf": {
     "id": "2G2X5AMqBRE2PgS3qCWfqf",
@@ -626,7 +653,8 @@
     "date": "2022/1/24",
     "artist": "しゃろう",
     "genres": ["japanese viral pop"],
-    "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o"
+    "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o",
+    "count": 20
   },
   "0bYg9bo50gSsH3LtXe2SQn": {
     "id": "0bYg9bo50gSsH3LtXe2SQn",
@@ -648,7 +676,8 @@
     "date": "2022/1/3",
     "artist": "Mariah Carey",
     "genres": ["dance pop", "pop", "urban contemporary"],
-    "artist_uri": "4iHNK0tOyZPYnBU7nGAgpQ"
+    "artist_uri": "4iHNK0tOyZPYnBU7nGAgpQ",
+    "count": 2
   },
   "3cBghvTcQNDNkW98Y4eGaP": {
     "id": "3cBghvTcQNDNkW98Y4eGaP",
@@ -670,7 +699,8 @@
     "date": "2022/1/17",
     "artist": "Tani Yuuki",
     "genres": ["j-pop", "japanese teen pop"],
-    "artist_uri": "0B1ce3uNrzkdm76NXI4mhX"
+    "artist_uri": "0B1ce3uNrzkdm76NXI4mhX",
+    "count": 17
   },
   "5reQI13tWWYDLMrGcUF4Mk": {
     "id": "5reQI13tWWYDLMrGcUF4Mk",
@@ -699,7 +729,8 @@
       "latin pop",
       "latin rock"
     ],
-    "artist_uri": "36KsCCwgI0Dep97yVJWmkK"
+    "artist_uri": "36KsCCwgI0Dep97yVJWmkK",
+    "count": 1
   },
   "71wZ1KJdXSa5hC51kvGBL2": {
     "id": "71wZ1KJdXSa5hC51kvGBL2",
@@ -727,7 +758,8 @@
       "post-teen pop",
       "talent show"
     ],
-    "artist_uri": "1l8Fu6IkuTP0U5QetQJ5Xt"
+    "artist_uri": "1l8Fu6IkuTP0U5QetQJ5Xt",
+    "count": 0
   },
   "4644JaCBBX7EpiZY1XXJaW": {
     "id": "4644JaCBBX7EpiZY1XXJaW",
@@ -749,7 +781,8 @@
     "date": "2022/2/28",
     "artist": "心之助",
     "genres": ["j-pop", "japanese viral pop"],
-    "artist_uri": "15NqiLfY3eOnLiiIbGAxCF"
+    "artist_uri": "15NqiLfY3eOnLiiIbGAxCF",
+    "count": 14
   },
   "4pCvnGkf7jveRMKHZosxxB": {
     "id": "4pCvnGkf7jveRMKHZosxxB",
@@ -771,7 +804,8 @@
     "date": "2022/1/17",
     "artist": "Rezz",
     "genres": ["canadian electronic", "edm", "electra", "electro house"],
-    "artist_uri": "4aKdmOXdUKX07HVd3sGgzw"
+    "artist_uri": "4aKdmOXdUKX07HVd3sGgzw",
+    "count": 8
   },
   "2E1t1eINdyQV9Ci9tF5KJt": {
     "id": "2E1t1eINdyQV9Ci9tF5KJt",
@@ -793,7 +827,8 @@
     "date": "2022/1/10",
     "artist": "Issei Uno Fifth",
     "genres": [],
-    "artist_uri": "3ChsBdunsttUJkFhSKRhfq"
+    "artist_uri": "3ChsBdunsttUJkFhSKRhfq",
+    "count": 1
   },
   "0mdk6AVb0zdArYx5OaM400": {
     "id": "0mdk6AVb0zdArYx5OaM400",
@@ -815,7 +850,8 @@
     "date": "2022/1/17",
     "artist": "阿部真央",
     "genres": ["j-pop", "j-poprock", "j-rock", "japanese singer-songwriter"],
-    "artist_uri": "5ajce5LoM5SK6a6zzyF4My"
+    "artist_uri": "5ajce5LoM5SK6a6zzyF4My",
+    "count": 4
   },
   "3SU6QfO8sxcXi6XcUpSlHy": {
     "id": "3SU6QfO8sxcXi6XcUpSlHy",
@@ -837,7 +873,8 @@
     "date": "2022/1/31",
     "artist": "あかね",
     "genres": ["japanese teen pop", "jirai kei"],
-    "artist_uri": "48cmBTHGDXpbMmImSbBprJ"
+    "artist_uri": "48cmBTHGDXpbMmImSbBprJ",
+    "count": 5
   },
   "0EWX020g7fvoErmWlr5MwU": {
     "id": "0EWX020g7fvoErmWlr5MwU",
@@ -859,7 +896,8 @@
     "date": "2022/1/17",
     "artist": "栗原正己",
     "genres": ["kodomo no ongaku"],
-    "artist_uri": "4PUbqK8p5hZpUHqziQE6zK"
+    "artist_uri": "4PUbqK8p5hZpUHqziQE6zK",
+    "count": 1
   },
   "2KqRO3dW7ERhyG16FuLI0n": {
     "id": "2KqRO3dW7ERhyG16FuLI0n",
@@ -881,7 +919,8 @@
     "date": "2022/2/7",
     "artist": "しゃろう",
     "genres": ["japanese viral pop"],
-    "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o"
+    "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o",
+    "count": 13
   },
   "3uCkIqD0VzQUijbs8WIizs": {
     "id": "3uCkIqD0VzQUijbs8WIizs",
@@ -903,7 +942,8 @@
     "date": "2022/1/24",
     "artist": "ニコ",
     "genres": ["anime", "j-pop", "j-poprock", "j-rock"],
-    "artist_uri": "16FpDRuy5xMHpuLYZV0Hkt"
+    "artist_uri": "16FpDRuy5xMHpuLYZV0Hkt",
+    "count": 1
   },
   "4gdiCHNbwugojBqr5Jt3pq": {
     "id": "4gdiCHNbwugojBqr5Jt3pq",
@@ -925,7 +965,8 @@
     "date": "2022/2/28",
     "artist": "Kep1er",
     "genres": ["k-pop"],
-    "artist_uri": "5R7AMwDeroq6Ls0COQYpS4"
+    "artist_uri": "5R7AMwDeroq6Ls0COQYpS4",
+    "count": 16
   },
   "3c4iCaXVuJaASqIvPLm7ts": {
     "id": "3c4iCaXVuJaASqIvPLm7ts",
@@ -947,7 +988,8 @@
     "date": "2022/2/28",
     "artist": "七草くりむ",
     "genres": ["japanese viral pop"],
-    "artist_uri": "0sGCkyb5YJyxNdfkW7t4mw"
+    "artist_uri": "0sGCkyb5YJyxNdfkW7t4mw",
+    "count": 9
   },
   "2grjqo0Frpf2okIBiifQKs": {
     "id": "2grjqo0Frpf2okIBiifQKs",
@@ -969,7 +1011,8 @@
     "date": "2022/1/31",
     "artist": "Earth, Wind & Fire",
     "genres": ["disco", "funk", "jazz funk", "quiet storm", "soul"],
-    "artist_uri": "4QQgXkCYTt3BlENzhyNETg"
+    "artist_uri": "4QQgXkCYTt3BlENzhyNETg",
+    "count": 2
   },
   "6EuubEs5qOmJdpNhkU47OZ": {
     "id": "6EuubEs5qOmJdpNhkU47OZ",
@@ -991,7 +1034,8 @@
     "date": "2022/2/14",
     "artist": "Lilas Ikuta",
     "genres": ["j-pop", "japanese teen pop"],
-    "artist_uri": "1qM11R4ylJyQiPJ0DffE9z"
+    "artist_uri": "1qM11R4ylJyQiPJ0DffE9z",
+    "count": 4
   },
   "2rpVmxAGGc18wpBREaoE0R": {
     "id": "2rpVmxAGGc18wpBREaoE0R",
@@ -1013,7 +1057,8 @@
     "date": "2022/2/7",
     "artist": "Studio Killers",
     "genres": [],
-    "artist_uri": "7avo0PmlW8O1YLEt9DnWQT"
+    "artist_uri": "7avo0PmlW8O1YLEt9DnWQT",
+    "count": 1
   },
   "1SH0BnKkEtLh8IcZnci79y": {
     "id": "1SH0BnKkEtLh8IcZnci79y",
@@ -1035,7 +1080,8 @@
     "date": "2022/2/21",
     "artist": "Vitamin String Quartet",
     "genres": ["bow pop"],
-    "artist_uri": "6MERXsiRbur2oJZFgYRDKz"
+    "artist_uri": "6MERXsiRbur2oJZFgYRDKz",
+    "count": 2
   },
   "0oqpKwNSfXhgnRfCPxay5Y": {
     "id": "0oqpKwNSfXhgnRfCPxay5Y",
@@ -1057,7 +1103,8 @@
     "date": "2022/2/21",
     "artist": "梅田サイファー",
     "genres": [],
-    "artist_uri": "6jGXROxZ2l5mTSyfVqjLn2"
+    "artist_uri": "6jGXROxZ2l5mTSyfVqjLn2",
+    "count": 3
   },
   "6IHWPY5iBUI1AOUclbtE6F": {
     "id": "6IHWPY5iBUI1AOUclbtE6F",
@@ -1079,7 +1126,8 @@
     "date": "2022/2/21",
     "artist": "Ayase",
     "genres": ["vocaloid"],
-    "artist_uri": "1S8OQ9SqlLdD9l4paaZMuZ"
+    "artist_uri": "1S8OQ9SqlLdD9l4paaZMuZ",
+    "count": 2
   },
   "3eg3igrhEhzk8bqqRz6XCt": {
     "id": "3eg3igrhEhzk8bqqRz6XCt",
@@ -1101,7 +1149,8 @@
     "date": "2022/2/21",
     "artist": "優里",
     "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
-    "artist_uri": "06xiwRrOYpawlayhiTU6Tr"
+    "artist_uri": "06xiwRrOYpawlayhiTU6Tr",
+    "count": 1
   },
   "4eX0CeNSZpa6ltSZvRDUgW": {
     "id": "4eX0CeNSZpa6ltSZvRDUgW",
@@ -1123,7 +1172,8 @@
     "date": "2022/4/18",
     "artist": "Danny Elfman",
     "genres": ["orchestral soundtrack", "soundtrack"],
-    "artist_uri": "5qBZETtyzfYnXOobDXbmcD"
+    "artist_uri": "5qBZETtyzfYnXOobDXbmcD",
+    "count": 9
   },
   "5bhhZDVT1UFZHvqce3OEQn": {
     "id": "5bhhZDVT1UFZHvqce3OEQn",
@@ -1145,7 +1195,8 @@
     "date": "2022/2/28",
     "artist": "すとぷり",
     "genres": ["j-division", "j-pop boy group"],
-    "artist_uri": "2i0kSiF991uhqOBfdKfB24"
+    "artist_uri": "2i0kSiF991uhqOBfdKfB24",
+    "count": 2
   },
   "0xYSgQHddr1lh6IfqWgn2W": {
     "id": "0xYSgQHddr1lh6IfqWgn2W",
@@ -1167,7 +1218,8 @@
     "date": "2022/3/21",
     "artist": "Kohmi Hirose",
     "genres": ["classic j-pop", "j-pop", "japanese singer-songwriter"],
-    "artist_uri": "0jMZY406RfgjK6PFKIRfAv"
+    "artist_uri": "0jMZY406RfgjK6PFKIRfAv",
+    "count": 11
   },
   "74PblUyepVjBlDEV1KzFh6": {
     "id": "74PblUyepVjBlDEV1KzFh6",
@@ -1189,7 +1241,8 @@
     "date": "2022/3/7",
     "artist": "winD",
     "genres": ["disco", "funk", "jazz funk", "quiet storm", "soul"],
-    "artist_uri": "4QQgXkCYTt3BlENzhyNETg"
+    "artist_uri": "4QQgXkCYTt3BlENzhyNETg",
+    "count": 3
   },
   "1gtbPEFs1FsPgX0daraCdP": {
     "id": "1gtbPEFs1FsPgX0daraCdP",
@@ -1211,7 +1264,8 @@
     "date": "2022/4/4",
     "artist": "Ohayo",
     "genres": ["japanese viral pop"],
-    "artist_uri": "6UZw9wULGiIBh6jCOn2Er9"
+    "artist_uri": "6UZw9wULGiIBh6jCOn2Er9",
+    "count": 10
   },
   "6WUytTGUVFHTVGOqty1UPs": {
     "id": "6WUytTGUVFHTVGOqty1UPs",
@@ -1233,7 +1287,8 @@
     "date": "2022/3/14",
     "artist": "にしな",
     "genres": ["j-pop", "japanese alternative rock", "japanese teen pop"],
-    "artist_uri": "2aoUBwmHWln0JSEZbi9E70"
+    "artist_uri": "2aoUBwmHWln0JSEZbi9E70",
+    "count": 8
   },
   "5Cz7o1cFQhCvBzq8foqIz0": {
     "id": "5Cz7o1cFQhCvBzq8foqIz0",
@@ -1255,7 +1310,8 @@
     "date": "2022/3/7",
     "artist": "Original Love",
     "genres": ["j-pop", "j-rock", "japanese r&b", "shibuya-kei"],
-    "artist_uri": "76QaFuQNldIJkAkDmaMAck"
+    "artist_uri": "76QaFuQNldIJkAkDmaMAck",
+    "count": 2
   },
   "6ZCRBbwaqE52NywtxciqCk": {
     "id": "6ZCRBbwaqE52NywtxciqCk",
@@ -1277,7 +1333,8 @@
     "date": "2022/3/21",
     "artist": "Finger 5",
     "genres": ["kayokyoku", "okinawan pop"],
-    "artist_uri": "0yr7xw7vy6CHfrb7FqesC5"
+    "artist_uri": "0yr7xw7vy6CHfrb7FqesC5",
+    "count": 4
   },
   "0QES2bxLgwxOfD7KF8l2ix": {
     "id": "0QES2bxLgwxOfD7KF8l2ix",
@@ -1299,7 +1356,8 @@
     "date": "2022/3/21",
     "artist": "TonyGumbo",
     "genres": [],
-    "artist_uri": "4LuzCe2a1kjq7ADvoq4tcD"
+    "artist_uri": "4LuzCe2a1kjq7ADvoq4tcD",
+    "count": 1
   },
   "6JmTrd6VvMOWZFBk439e28": {
     "id": "6JmTrd6VvMOWZFBk439e28",
@@ -1321,7 +1379,8 @@
     "date": "2022/3/21",
     "artist": "sui",
     "genres": ["indie garage rock", "lo-fi emo"],
-    "artist_uri": "2cAvReLDmjFQtCJFDJbHBU"
+    "artist_uri": "2cAvReLDmjFQtCJFDJbHBU",
+    "count": 1
   },
   "5Y0JbLOPLfWdWTQHJPJtEx": {
     "id": "5Y0JbLOPLfWdWTQHJPJtEx",
@@ -1343,7 +1402,8 @@
     "date": "2022/5/2",
     "artist": "Klang Ruler",
     "genres": ["japanese pop rap"],
-    "artist_uri": "7dGWpqSL5xaZjWbo3UWXyU"
+    "artist_uri": "7dGWpqSL5xaZjWbo3UWXyU",
+    "count": 8
   },
   "74qVCcTIf0fyylEiZuL8mL": {
     "id": "74qVCcTIf0fyylEiZuL8mL",
@@ -1365,7 +1425,8 @@
     "date": "2022/3/28",
     "artist": "LeaFie",
     "genres": [],
-    "artist_uri": "7nTv6VarQnlpatljBje9WK"
+    "artist_uri": "7nTv6VarQnlpatljBje9WK",
+    "count": 1
   },
   "3qAuNCammYHsIoU83qyGyu": {
     "id": "3qAuNCammYHsIoU83qyGyu",
@@ -1387,7 +1448,8 @@
     "date": "2022/4/11",
     "artist": "Emetsound",
     "genres": [],
-    "artist_uri": "4dKJnc3oBTZWbuNQiQvFLd"
+    "artist_uri": "4dKJnc3oBTZWbuNQiQvFLd",
+    "count": 7
   },
   "7oCZ1O1L4TuLRnmt8Io4IU": {
     "id": "7oCZ1O1L4TuLRnmt8Io4IU",
@@ -1409,7 +1471,8 @@
     "date": "2022/4/4",
     "artist": "Mr.Children",
     "genres": ["classic j-pop", "j-pop", "j-rock"],
-    "artist_uri": "1qma7XhwZotCAucL7NHVLY"
+    "artist_uri": "1qma7XhwZotCAucL7NHVLY",
+    "count": 2
   },
   "609ZaFJuwGmqSsCDFCYIwG": {
     "id": "609ZaFJuwGmqSsCDFCYIwG",
@@ -1431,7 +1494,8 @@
     "date": "2022/4/4",
     "artist": "HIRAIDAI",
     "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
-    "artist_uri": "7JthQ6zwNzfxRfIEjp6wUs"
+    "artist_uri": "7JthQ6zwNzfxRfIEjp6wUs",
+    "count": 1
   },
   "0UP2LfMahz2upMadwoqGfu": {
     "id": "0UP2LfMahz2upMadwoqGfu",
@@ -1453,7 +1517,8 @@
     "date": "2022/4/11",
     "artist": "VILLSHANA",
     "genres": ["japanese chill rap"],
-    "artist_uri": "57weAzpeaELcDcAuqngdDo"
+    "artist_uri": "57weAzpeaELcDcAuqngdDo",
+    "count": 2
   },
   "75IN3CtuZwTHTnZvYM4qnJ": {
     "id": "75IN3CtuZwTHTnZvYM4qnJ",
@@ -1475,7 +1540,8 @@
     "date": "2022/4/18",
     "artist": "D Billions",
     "genres": [],
-    "artist_uri": "0qIpOhRDzOLVVxO7RAR3RZ"
+    "artist_uri": "0qIpOhRDzOLVVxO7RAR3RZ",
+    "count": 4
   },
   "6ahKnsl2tuTCyaBwt45WAz": {
     "id": "6ahKnsl2tuTCyaBwt45WAz",
@@ -1503,7 +1569,8 @@
       "japanese pop punk",
       "japanese punk rock"
     ],
-    "artist_uri": "6YqdtpUutxodni6lUD4stM"
+    "artist_uri": "6YqdtpUutxodni6lUD4stM",
+    "count": 1
   },
   "0aYy3loC6Ot5vsBfMvHZUC": {
     "id": "0aYy3loC6Ot5vsBfMvHZUC",
@@ -1525,7 +1592,8 @@
     "date": "2022/4/25",
     "artist": "Snow Man",
     "genres": [],
-    "artist_uri": "5NuOW7GuqjzRRQty9SHlRx"
+    "artist_uri": "5NuOW7GuqjzRRQty9SHlRx",
+    "count": 6
   },
   "3w6dGNmencAVaDGQkglElo": {
     "id": "3w6dGNmencAVaDGQkglElo",
@@ -1547,7 +1615,8 @@
     "date": "2022/4/18",
     "artist": "KOIN",
     "genres": ["hawaiian hip hop", "hawaiian indie"],
-    "artist_uri": "3dOutZGwZ6fBIjwMAWcD3c"
+    "artist_uri": "3dOutZGwZ6fBIjwMAWcD3c",
+    "count": 6
   },
   "4fdB7D3ie0C6HZLEb8VTHA": {
     "id": "4fdB7D3ie0C6HZLEb8VTHA",
@@ -1569,7 +1638,8 @@
     "date": "2022/5/2",
     "artist": "Kyary Pamyu Pamyu",
     "genres": ["j-idol", "japanese electropop"],
-    "artist_uri": "7Gh6fW49xfXLP8DTWaLVJP"
+    "artist_uri": "7Gh6fW49xfXLP8DTWaLVJP",
+    "count": 6
   },
   "5JptX8WFwejyeb6OuKL7wG": {
     "id": "5JptX8WFwejyeb6OuKL7wG",
@@ -1591,7 +1661,8 @@
     "date": "2022/4/18",
     "artist": "sakanaction",
     "genres": ["hokkaido indie", "j-pop", "j-rock", "japanese electropop"],
-    "artist_uri": "0hCWVMGGQnRVfDgmhwLIxq"
+    "artist_uri": "0hCWVMGGQnRVfDgmhwLIxq",
+    "count": 4
   },
   "7gKTnSP2s0pPZe1NwBA8FB": {
     "id": "7gKTnSP2s0pPZe1NwBA8FB",
@@ -1613,7 +1684,8 @@
     "date": "2022/4/11",
     "artist": "ゆず",
     "genres": ["j-acoustic", "j-pop", "j-poprock", "j-rock"],
-    "artist_uri": "7lNFzeAXmSIKexINNgO6bu"
+    "artist_uri": "7lNFzeAXmSIKexINNgO6bu",
+    "count": 1
   },
   "0TQpPhA1OBrVGIfaKShRrx": {
     "id": "0TQpPhA1OBrVGIfaKShRrx",
@@ -1635,7 +1707,8 @@
     "date": "2022/5/16",
     "artist": "femme fatale",
     "genres": ["j-pop girl group", "jirai kei"],
-    "artist_uri": "4ZHw7vDYK8ksMmlRsUYtxd"
+    "artist_uri": "4ZHw7vDYK8ksMmlRsUYtxd",
+    "count": 5
   },
   "5O505A6vi4Igv5BInFJ6fM": {
     "id": "5O505A6vi4Igv5BInFJ6fM",
@@ -1657,7 +1730,8 @@
     "date": "2022/4/18",
     "artist": "心之助",
     "genres": ["j-pop", "japanese viral pop"],
-    "artist_uri": "15NqiLfY3eOnLiiIbGAxCF"
+    "artist_uri": "15NqiLfY3eOnLiiIbGAxCF",
+    "count": 1
   },
   "0Q5VnK2DYzRyfqQRJuUtvi": {
     "id": "0Q5VnK2DYzRyfqQRJuUtvi",
@@ -1679,7 +1753,8 @@
     "date": "2022/5/2",
     "artist": "IVE",
     "genres": ["eau claire indie", "indie folk", "melancholia"],
-    "artist_uri": "4LEiUm1SRbFMgfqnQTwUbQ"
+    "artist_uri": "4LEiUm1SRbFMgfqnQTwUbQ",
+    "count": 4
   },
   "4rdmyc70mJQEfhKeiFDLFZ": {
     "id": "4rdmyc70mJQEfhKeiFDLFZ",
@@ -1701,7 +1776,8 @@
     "date": "2022/4/25",
     "artist": "NiziU",
     "genres": ["j-pop"],
-    "artist_uri": "3z8diLlUCkN1j9N9ZdnfBJ"
+    "artist_uri": "3z8diLlUCkN1j9N9ZdnfBJ",
+    "count": 1
   },
   "43PlsJn27zRG2KjpL12eb7": {
     "id": "43PlsJn27zRG2KjpL12eb7",
@@ -1723,7 +1799,8 @@
     "date": "2022/4/25",
     "artist": "Ryokuoushoku Shakai",
     "genres": ["j-pop"],
-    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa"
+    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa",
+    "count": 1
   },
   "4WQJd6v3HIDGZnn2kJTEc9": {
     "id": "4WQJd6v3HIDGZnn2kJTEc9",
@@ -1745,7 +1822,8 @@
     "date": "2022/4/25",
     "artist": "Shaggy",
     "genres": ["pop rap", "reggae fusion"],
-    "artist_uri": "5EvFsr3kj42KNv97ZEnqij"
+    "artist_uri": "5EvFsr3kj42KNv97ZEnqij",
+    "count": 1
   },
   "3ZUQqy2qN3L9DgNfefMcSp": {
     "id": "3ZUQqy2qN3L9DgNfefMcSp",
@@ -1767,7 +1845,8 @@
     "date": "2022/5/2",
     "artist": "Kohmi Hirose",
     "genres": ["classic j-pop", "j-pop", "japanese singer-songwriter"],
-    "artist_uri": "0jMZY406RfgjK6PFKIRfAv"
+    "artist_uri": "0jMZY406RfgjK6PFKIRfAv",
+    "count": 1
   },
   "6hDhcQg11LxCk3rcaRlyb6": {
     "id": "6hDhcQg11LxCk3rcaRlyb6",
@@ -1789,7 +1868,8 @@
     "date": "2022/5/9",
     "artist": "りりあ。",
     "genres": ["japanese teen pop"],
-    "artist_uri": "1J6OD7vLbjEuFVgVRlusmS"
+    "artist_uri": "1J6OD7vLbjEuFVgVRlusmS",
+    "count": 2
   },
   "0O4YelF6Zneq7sk1Ye73N2": {
     "id": "0O4YelF6Zneq7sk1Ye73N2",
@@ -1811,7 +1891,8 @@
     "date": "2022/5/2",
     "artist": "Ryokuoushoku Shakai",
     "genres": ["j-pop"],
-    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa"
+    "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa",
+    "count": 2
   },
   "6nYezkgAePhAmnxNTQRsLV": {
     "id": "6nYezkgAePhAmnxNTQRsLV",
@@ -1833,7 +1914,8 @@
     "date": "2022/5/16",
     "artist": "asmi",
     "genres": ["japanese teen pop"],
-    "artist_uri": "3UY1KK0iXeC0mpaK0ltFza"
+    "artist_uri": "3UY1KK0iXeC0mpaK0ltFza",
+    "count": 3
   },
   "73lYGiWPM9Wu4xhdOe8LNM": {
     "id": "73lYGiWPM9Wu4xhdOe8LNM",
@@ -1855,7 +1937,8 @@
     "date": "2022/5/2",
     "artist": "freestyle",
     "genres": ["dominican pop", "trap dominicano", "trap latino"],
-    "artist_uri": "1AACxWCwNIa3ecOBQJnXRV"
+    "artist_uri": "1AACxWCwNIa3ecOBQJnXRV",
+    "count": 1
   },
   "2uMNMcjjUz8oNIxjIu20qE": {
     "id": "2uMNMcjjUz8oNIxjIu20qE",
@@ -1877,7 +1960,8 @@
     "date": "2022/5/16",
     "artist": "SEKAI NO OWARI",
     "genres": ["anime", "j-pop"],
-    "artist_uri": "7HwzlRPa9Ad0I8rK0FPzzK"
+    "artist_uri": "7HwzlRPa9Ad0I8rK0FPzzK",
+    "count": 2
   },
   "0xbZ86ejZysyNM2V5BY0EI": {
     "id": "0xbZ86ejZysyNM2V5BY0EI",
@@ -1899,7 +1983,8 @@
     "date": "2022/5/16",
     "artist": "Rasheeda",
     "genres": ["atl hip hop", "hip pop", "pop rap", "southern hip hop"],
-    "artist_uri": "3x6gZfwmkDn92EKOwnYq4H"
+    "artist_uri": "3x6gZfwmkDn92EKOwnYq4H",
+    "count": 2
   },
   "3mCsBzXdoYF4wK8ElA49Un": {
     "id": "3mCsBzXdoYF4wK8ElA49Un",
@@ -1921,7 +2006,8 @@
     "date": "2022/5/16",
     "artist": "GReeeeN",
     "genres": ["j-pop", "j-pop boy group", "j-poprock"],
-    "artist_uri": "14T8NkbwXVZgbOvwnuGV89"
+    "artist_uri": "14T8NkbwXVZgbOvwnuGV89",
+    "count": 1
   },
   "0sT7sqippFiMVx82UNWwhy": {
     "id": "0sT7sqippFiMVx82UNWwhy",
@@ -1943,6 +2029,7 @@
     "date": "2022/5/16",
     "artist": "Toni Leys",
     "genres": ["vgm remix"],
-    "artist_uri": "6DNM2EfbLyKVLhHlvF5Zp4"
+    "artist_uri": "6DNM2EfbLyKVLhHlvF5Zp4",
+    "count": 2
   }
 }
