@@ -20,7 +20,7 @@
     "artist": "音莉飴",
     "genres": ["japanese teen pop", "jirai kei"],
     "artist_uri": "48cmBTHGDXpbMmImSbBprJ",
-    "first_take": "No",
+    "first_take": false,
     "count": 14
   },
   {
@@ -44,7 +44,7 @@
     "artist": "T-STONE",
     "genres": ["album rock", "british invasion", "classic rock", "rock"],
     "artist_uri": "22bE4uQ6baNwSHPVcDxLCe",
-    "first_take": "No",
+    "first_take": false,
     "count": 10
   },
   {
@@ -68,7 +68,7 @@
     "artist": "鈴木鈴木",
     "genres": ["japanese classical performance"],
     "artist_uri": "5YnNfqofR6jjU2DDoGfh2h",
-    "first_take": "No",
+    "first_take": false,
     "count": 4
   },
   {
@@ -92,7 +92,7 @@
     "artist": "Chippoke Ohashi",
     "genres": ["j-pop", "japanese alternative pop"],
     "artist_uri": "3QWnDVzCzffmWoYCAGNajE",
-    "first_take": "No",
+    "first_take": false,
     "count": 3
   },
   {
@@ -116,7 +116,7 @@
     "artist": "たかやん",
     "genres": ["men chika"],
     "artist_uri": "79JgYJHiBUZcvYqOC5Zufn",
-    "first_take": "No",
+    "first_take": false,
     "count": 5
   },
   {
@@ -147,7 +147,7 @@
       "west coast rap"
     ],
     "artist_uri": "4P0dddbxPil35MNN9G2MEX",
-    "first_take": "No",
+    "first_take": false,
     "count": 6
   },
   {
@@ -171,7 +171,7 @@
     "artist": "natsumi",
     "genres": ["japanese teen pop", "japanese viral pop"],
     "artist_uri": "7GBDKoYYinEfOirEzLlHPK",
-    "first_take": "No",
+    "first_take": false,
     "count": 6
   },
   {
@@ -195,7 +195,7 @@
     "artist": "ケプラ",
     "genres": ["japanese viral pop"],
     "artist_uri": "1vJQ33eLhZQw9PHiHoA8ZJ",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -219,7 +219,7 @@
     "artist": "WurtS",
     "genres": ["j-pop"],
     "artist_uri": "6oued35Hkg7GIEXqVfBrQK",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -243,7 +243,7 @@
     "artist": "Creep Hyp",
     "genres": ["j-pop", "j-rock"],
     "artist_uri": "6POfB0fHdzXFLWL3RHxLv8",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -267,7 +267,7 @@
     "artist": "Oliver Tree",
     "genres": ["alternative hip hop"],
     "artist_uri": "6TLwD7HPWuiOzvXEa3oCNe",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -291,7 +291,7 @@
     "artist": "MAISONdes",
     "genres": ["j-pop", "japanese teen pop"],
     "artist_uri": "7LTiBdByoaUd329wCpmMcM",
-    "first_take": "Yes",
+    "first_take": true,
     "count": 2
   },
   {
@@ -315,7 +315,7 @@
     "artist": "Katy Perry",
     "genres": ["dance pop", "pop", "post-teen pop"],
     "artist_uri": "6jJ0s89eD6GaHleKKya26X",
-    "first_take": "No",
+    "first_take": false,
     "count": 3
   },
   {
@@ -339,7 +339,7 @@
     "artist": "Hari Supiko",
     "genres": ["japanese viral pop"],
     "artist_uri": "3pOsiXCs15cciauqipr975",
-    "first_take": "No",
+    "first_take": false,
     "count": 23
   },
   {
@@ -363,7 +363,7 @@
     "artist": "imase",
     "genres": ["japanese teen pop"],
     "artist_uri": "4TaSvnT5o4REFwhqfrmK27",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -387,7 +387,7 @@
     "artist": "Vaundy",
     "genres": ["j-pop", "japanese soul"],
     "artist_uri": "2IUl3m1H1EQ7QfNbNWvgru",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -411,7 +411,7 @@
     "artist": "ピアニカの魔術師",
     "genres": [],
     "artist_uri": "0vDdKDjHoPSopjedHbmz1v",
-    "first_take": "No",
+    "first_take": false,
     "count": 8
   },
   {
@@ -435,7 +435,7 @@
     "artist": "SHISE",
     "genres": ["japanese pop rap"],
     "artist_uri": "4cEW3r3jrgiGUnIh6ipaAE",
-    "first_take": "No",
+    "first_take": false,
     "count": 6
   },
   {
@@ -459,7 +459,7 @@
     "artist": "Sam Ock",
     "genres": ["ambeat"],
     "artist_uri": "0823FxAYBXOeMTOWPeH9HH",
-    "first_take": "No",
+    "first_take": false,
     "count": 4
   },
   {
@@ -483,7 +483,7 @@
     "artist": "TWICE",
     "genres": ["k-pop", "k-pop girl group"],
     "artist_uri": "7n2Ycct7Beij7Dj7meI4X0",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -507,7 +507,7 @@
     "artist": "sloppy dim",
     "genres": ["japanese pop rap"],
     "artist_uri": "6uMBnBtHeJmhc2tx1vDCae",
-    "first_take": "No",
+    "first_take": false,
     "count": 7
   },
   {
@@ -531,7 +531,7 @@
     "artist": "Meghan Trainor",
     "genres": ["dance pop", "hip pop", "pop", "post-teen pop"],
     "artist_uri": "6JL8zeS1NmiOftqZTRgdTz",
-    "first_take": "No",
+    "first_take": false,
     "count": 14
   },
   {
@@ -555,7 +555,7 @@
     "artist": "imase",
     "genres": ["japanese teen pop"],
     "artist_uri": "4TaSvnT5o4REFwhqfrmK27",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -585,7 +585,7 @@
       "japanese punk rock"
     ],
     "artist_uri": "6YqdtpUutxodni6lUD4stM",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -609,7 +609,7 @@
     "artist": "Orangestar",
     "genres": ["vocaloid"],
     "artist_uri": "420aixNZr4paRQmuRXz3DS",
-    "first_take": "No",
+    "first_take": false,
     "count": 16
   },
   {
@@ -633,7 +633,7 @@
     "artist": "IVE",
     "genres": ["eau claire indie", "indie folk", "melancholia"],
     "artist_uri": "4LEiUm1SRbFMgfqnQTwUbQ",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -657,7 +657,7 @@
     "artist": "湊あくあ",
     "genres": ["hololive", "japanese vtuber", "jirai kei"],
     "artist_uri": "6GHr4rGFHGRUuzuCuxJA0f",
-    "first_take": "No",
+    "first_take": false,
     "count": 15
   },
   {
@@ -681,7 +681,7 @@
     "artist": "しゃろう",
     "genres": ["japanese viral pop"],
     "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o",
-    "first_take": "No",
+    "first_take": false,
     "count": 20
   },
   {
@@ -705,7 +705,7 @@
     "artist": "Mariah Carey",
     "genres": ["dance pop", "pop", "urban contemporary"],
     "artist_uri": "4iHNK0tOyZPYnBU7nGAgpQ",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -729,7 +729,7 @@
     "artist": "Tani Yuuki",
     "genres": ["j-pop", "japanese teen pop"],
     "artist_uri": "0B1ce3uNrzkdm76NXI4mhX",
-    "first_take": "Yes",
+    "first_take": true,
     "count": 17
   },
   {
@@ -760,7 +760,7 @@
       "latin rock"
     ],
     "artist_uri": "36KsCCwgI0Dep97yVJWmkK",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -790,7 +790,7 @@
       "talent show"
     ],
     "artist_uri": "1l8Fu6IkuTP0U5QetQJ5Xt",
-    "first_take": "No",
+    "first_take": false,
     "count": 0
   },
   {
@@ -814,7 +814,7 @@
     "artist": "心之助",
     "genres": ["j-pop", "japanese viral pop"],
     "artist_uri": "15NqiLfY3eOnLiiIbGAxCF",
-    "first_take": "No",
+    "first_take": false,
     "count": 14
   },
   {
@@ -838,7 +838,7 @@
     "artist": "Rezz",
     "genres": ["canadian electronic", "edm", "electra", "electro house"],
     "artist_uri": "4aKdmOXdUKX07HVd3sGgzw",
-    "first_take": "No",
+    "first_take": false,
     "count": 8
   },
   {
@@ -862,7 +862,7 @@
     "artist": "Issei Uno Fifth",
     "genres": [],
     "artist_uri": "3ChsBdunsttUJkFhSKRhfq",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -886,7 +886,7 @@
     "artist": "阿部真央",
     "genres": ["j-pop", "j-poprock", "j-rock", "japanese singer-songwriter"],
     "artist_uri": "5ajce5LoM5SK6a6zzyF4My",
-    "first_take": "No",
+    "first_take": false,
     "count": 4
   },
   {
@@ -910,7 +910,7 @@
     "artist": "あかね",
     "genres": ["japanese teen pop", "jirai kei"],
     "artist_uri": "48cmBTHGDXpbMmImSbBprJ",
-    "first_take": "No",
+    "first_take": false,
     "count": 5
   },
   {
@@ -934,7 +934,7 @@
     "artist": "栗原正己",
     "genres": ["kodomo no ongaku"],
     "artist_uri": "4PUbqK8p5hZpUHqziQE6zK",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -958,7 +958,7 @@
     "artist": "しゃろう",
     "genres": ["japanese viral pop"],
     "artist_uri": "78Oq5iXIM9HCAe0zYg8E7o",
-    "first_take": "No",
+    "first_take": false,
     "count": 13
   },
   {
@@ -982,7 +982,7 @@
     "artist": "ニコ",
     "genres": ["anime", "j-pop", "j-poprock", "j-rock"],
     "artist_uri": "16FpDRuy5xMHpuLYZV0Hkt",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1006,7 +1006,7 @@
     "artist": "Kep1er",
     "genres": ["k-pop"],
     "artist_uri": "5R7AMwDeroq6Ls0COQYpS4",
-    "first_take": "No",
+    "first_take": false,
     "count": 16
   },
   {
@@ -1030,7 +1030,7 @@
     "artist": "七草くりむ",
     "genres": ["japanese viral pop"],
     "artist_uri": "0sGCkyb5YJyxNdfkW7t4mw",
-    "first_take": "No",
+    "first_take": false,
     "count": 9
   },
   {
@@ -1054,7 +1054,7 @@
     "artist": "Earth, Wind & Fire",
     "genres": ["disco", "funk", "jazz funk", "quiet storm", "soul"],
     "artist_uri": "4QQgXkCYTt3BlENzhyNETg",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1078,7 +1078,7 @@
     "artist": "Lilas Ikuta",
     "genres": ["j-pop", "japanese teen pop"],
     "artist_uri": "1qM11R4ylJyQiPJ0DffE9z",
-    "first_take": "Yes",
+    "first_take": true,
     "count": 4
   },
   {
@@ -1102,7 +1102,7 @@
     "artist": "Studio Killers",
     "genres": [],
     "artist_uri": "7avo0PmlW8O1YLEt9DnWQT",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1126,7 +1126,7 @@
     "artist": "Vitamin String Quartet",
     "genres": ["bow pop"],
     "artist_uri": "6MERXsiRbur2oJZFgYRDKz",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1150,7 +1150,7 @@
     "artist": "梅田サイファー",
     "genres": [],
     "artist_uri": "6jGXROxZ2l5mTSyfVqjLn2",
-    "first_take": "Yes",
+    "first_take": true,
     "count": 3
   },
   {
@@ -1174,7 +1174,7 @@
     "artist": "Ayase",
     "genres": ["vocaloid"],
     "artist_uri": "1S8OQ9SqlLdD9l4paaZMuZ",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1198,7 +1198,7 @@
     "artist": "優里",
     "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
     "artist_uri": "06xiwRrOYpawlayhiTU6Tr",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1222,7 +1222,7 @@
     "artist": "Danny Elfman",
     "genres": ["orchestral soundtrack", "soundtrack"],
     "artist_uri": "5qBZETtyzfYnXOobDXbmcD",
-    "first_take": "No",
+    "first_take": false,
     "count": 9
   },
   {
@@ -1246,7 +1246,7 @@
     "artist": "すとぷり",
     "genres": ["j-division", "j-pop boy group"],
     "artist_uri": "2i0kSiF991uhqOBfdKfB24",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1270,7 +1270,7 @@
     "artist": "Kohmi Hirose",
     "genres": ["classic j-pop", "j-pop", "japanese singer-songwriter"],
     "artist_uri": "0jMZY406RfgjK6PFKIRfAv",
-    "first_take": "No",
+    "first_take": false,
     "count": 11
   },
   {
@@ -1294,7 +1294,7 @@
     "artist": "winD",
     "genres": ["disco", "funk", "jazz funk", "quiet storm", "soul"],
     "artist_uri": "4QQgXkCYTt3BlENzhyNETg",
-    "first_take": "No",
+    "first_take": false,
     "count": 3
   },
   {
@@ -1318,7 +1318,7 @@
     "artist": "Ohayo",
     "genres": ["japanese viral pop"],
     "artist_uri": "6UZw9wULGiIBh6jCOn2Er9",
-    "first_take": "No",
+    "first_take": false,
     "count": 10
   },
   {
@@ -1342,7 +1342,7 @@
     "artist": "にしな",
     "genres": ["j-pop", "japanese alternative rock", "japanese teen pop"],
     "artist_uri": "2aoUBwmHWln0JSEZbi9E70",
-    "first_take": "No",
+    "first_take": false,
     "count": 8
   },
   {
@@ -1366,7 +1366,7 @@
     "artist": "Original Love",
     "genres": ["j-pop", "j-rock", "japanese r&b", "shibuya-kei"],
     "artist_uri": "76QaFuQNldIJkAkDmaMAck",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1390,7 +1390,7 @@
     "artist": "Finger 5",
     "genres": ["kayokyoku", "okinawan pop"],
     "artist_uri": "0yr7xw7vy6CHfrb7FqesC5",
-    "first_take": "No",
+    "first_take": false,
     "count": 4
   },
   {
@@ -1414,7 +1414,7 @@
     "artist": "TonyGumbo",
     "genres": [],
     "artist_uri": "4LuzCe2a1kjq7ADvoq4tcD",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1438,7 +1438,7 @@
     "artist": "sui",
     "genres": ["indie garage rock", "lo-fi emo"],
     "artist_uri": "2cAvReLDmjFQtCJFDJbHBU",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1462,7 +1462,7 @@
     "artist": "Klang Ruler",
     "genres": ["japanese pop rap"],
     "artist_uri": "7dGWpqSL5xaZjWbo3UWXyU",
-    "first_take": "No",
+    "first_take": false,
     "count": 8
   },
   {
@@ -1486,7 +1486,7 @@
     "artist": "LeaFie",
     "genres": [],
     "artist_uri": "7nTv6VarQnlpatljBje9WK",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1510,7 +1510,7 @@
     "artist": "Emetsound",
     "genres": [],
     "artist_uri": "4dKJnc3oBTZWbuNQiQvFLd",
-    "first_take": "No",
+    "first_take": false,
     "count": 7
   },
   {
@@ -1534,7 +1534,7 @@
     "artist": "Mr.Children",
     "genres": ["classic j-pop", "j-pop", "j-rock"],
     "artist_uri": "1qma7XhwZotCAucL7NHVLY",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1558,7 +1558,7 @@
     "artist": "HIRAIDAI",
     "genres": ["j-pop", "japanese singer-songwriter", "japanese teen pop"],
     "artist_uri": "7JthQ6zwNzfxRfIEjp6wUs",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1582,7 +1582,7 @@
     "artist": "VILLSHANA",
     "genres": ["japanese chill rap"],
     "artist_uri": "57weAzpeaELcDcAuqngdDo",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1606,7 +1606,7 @@
     "artist": "D Billions",
     "genres": [],
     "artist_uri": "0qIpOhRDzOLVVxO7RAR3RZ",
-    "first_take": "No",
+    "first_take": false,
     "count": 4
   },
   {
@@ -1636,7 +1636,7 @@
       "japanese punk rock"
     ],
     "artist_uri": "6YqdtpUutxodni6lUD4stM",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1660,7 +1660,7 @@
     "artist": "Snow Man",
     "genres": [],
     "artist_uri": "5NuOW7GuqjzRRQty9SHlRx",
-    "first_take": "No",
+    "first_take": false,
     "count": 6
   },
   {
@@ -1684,7 +1684,7 @@
     "artist": "KOIN",
     "genres": ["hawaiian hip hop", "hawaiian indie"],
     "artist_uri": "3dOutZGwZ6fBIjwMAWcD3c",
-    "first_take": "No",
+    "first_take": false,
     "count": 6
   },
   {
@@ -1708,7 +1708,7 @@
     "artist": "Kyary Pamyu Pamyu",
     "genres": ["j-idol", "japanese electropop"],
     "artist_uri": "7Gh6fW49xfXLP8DTWaLVJP",
-    "first_take": "No",
+    "first_take": false,
     "count": 6
   },
   {
@@ -1732,7 +1732,7 @@
     "artist": "sakanaction",
     "genres": ["hokkaido indie", "j-pop", "j-rock", "japanese electropop"],
     "artist_uri": "0hCWVMGGQnRVfDgmhwLIxq",
-    "first_take": "No",
+    "first_take": false,
     "count": 4
   },
   {
@@ -1756,7 +1756,7 @@
     "artist": "ゆず",
     "genres": ["j-acoustic", "j-pop", "j-poprock", "j-rock"],
     "artist_uri": "7lNFzeAXmSIKexINNgO6bu",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1780,7 +1780,7 @@
     "artist": "femme fatale",
     "genres": ["j-pop girl group", "jirai kei"],
     "artist_uri": "4ZHw7vDYK8ksMmlRsUYtxd",
-    "first_take": "No",
+    "first_take": false,
     "count": 5
   },
   {
@@ -1804,7 +1804,7 @@
     "artist": "心之助",
     "genres": ["j-pop", "japanese viral pop"],
     "artist_uri": "15NqiLfY3eOnLiiIbGAxCF",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1828,7 +1828,7 @@
     "artist": "IVE",
     "genres": ["eau claire indie", "indie folk", "melancholia"],
     "artist_uri": "4LEiUm1SRbFMgfqnQTwUbQ",
-    "first_take": "No",
+    "first_take": false,
     "count": 4
   },
   {
@@ -1852,7 +1852,7 @@
     "artist": "NiziU",
     "genres": ["j-pop"],
     "artist_uri": "3z8diLlUCkN1j9N9ZdnfBJ",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1876,7 +1876,7 @@
     "artist": "Ryokuoushoku Shakai",
     "genres": ["j-pop"],
     "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa",
-    "first_take": "Yes",
+    "first_take": true,
     "count": 1
   },
   {
@@ -1900,7 +1900,7 @@
     "artist": "Shaggy",
     "genres": ["pop rap", "reggae fusion"],
     "artist_uri": "5EvFsr3kj42KNv97ZEnqij",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1924,7 +1924,7 @@
     "artist": "Kohmi Hirose",
     "genres": ["classic j-pop", "j-pop", "japanese singer-songwriter"],
     "artist_uri": "0jMZY406RfgjK6PFKIRfAv",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -1948,7 +1948,7 @@
     "artist": "りりあ。",
     "genres": ["japanese teen pop"],
     "artist_uri": "1J6OD7vLbjEuFVgVRlusmS",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -1972,7 +1972,7 @@
     "artist": "Ryokuoushoku Shakai",
     "genres": ["j-pop"],
     "artist_uri": "4SJ7qRgJYNXB9Yttzs4aSa",
-    "first_take": "Yes",
+    "first_take": true,
     "count": 2
   },
   {
@@ -1996,7 +1996,7 @@
     "artist": "asmi",
     "genres": ["japanese teen pop"],
     "artist_uri": "3UY1KK0iXeC0mpaK0ltFza",
-    "first_take": "No",
+    "first_take": false,
     "count": 3
   },
   {
@@ -2020,7 +2020,7 @@
     "artist": "freestyle",
     "genres": ["dominican pop", "trap dominicano", "trap latino"],
     "artist_uri": "1AACxWCwNIa3ecOBQJnXRV",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -2044,7 +2044,7 @@
     "artist": "SEKAI NO OWARI",
     "genres": ["anime", "j-pop"],
     "artist_uri": "7HwzlRPa9Ad0I8rK0FPzzK",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -2068,7 +2068,7 @@
     "artist": "Rasheeda",
     "genres": ["atl hip hop", "hip pop", "pop rap", "southern hip hop"],
     "artist_uri": "3x6gZfwmkDn92EKOwnYq4H",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
@@ -2092,7 +2092,7 @@
     "artist": "GReeeeN",
     "genres": ["j-pop", "j-pop boy group", "j-poprock"],
     "artist_uri": "14T8NkbwXVZgbOvwnuGV89",
-    "first_take": "No",
+    "first_take": false,
     "count": 1
   },
   {
@@ -2116,7 +2116,7 @@
     "artist": "Toni Leys",
     "genres": ["vgm remix"],
     "artist_uri": "6DNM2EfbLyKVLhHlvF5Zp4",
-    "first_take": "No",
+    "first_take": false,
     "count": 2
   },
   {
