@@ -11,8 +11,10 @@ tagger = MeCab.Tagger('-Ochasen')
 # stop_word_list = ['の', 'よう', 'それ', 'もの', 'ん', 'そこ', 'うち', 'さん', 'そう', 'ところ',
 #                   'これ', '-', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十']
 
-stop_word_list = [] #ストップワードは無くても動いた
-file_path = './text_data/' #パスはここいじるといい感じになる
+stop_word_list = []  # ストップワードは無くても動いた
+file_path = '../lyrics/tiktok/'  # パスはここいじるといい感じになる
+
+# おじゃま虫だよ
 
 
 def get_filename_list(file_path):
@@ -24,7 +26,7 @@ def get_filename_list(file_path):
     return filename_list
 
 
-def get_word_counter(file_path,filename):
+def get_word_counter(file_path, filename):
     filepath = file_path+filename
     with codecs.open(filepath, 'r', encoding='utf-8') as fp:
         word_counter = Counter()
@@ -80,7 +82,7 @@ if __name__ == '__main__':
     file_word_counter = Counter()
     # get word_dict
     for filename in filename_list:
-        file_word_counter[filename] = get_word_counter(file_path,filename)
+        file_word_counter[filename] = get_word_counter(file_path, filename)
     # get tf and idf score
     file_tf_dict = {}
     file_idf_dict = {}
