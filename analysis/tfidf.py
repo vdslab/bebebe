@@ -14,6 +14,7 @@ tagger = MeCab.Tagger('-Ochasen')
 stop_word_list = [] #ストップワードは無くても動いた
 file_path = './text_data/' #パスはここいじるといい感じになる
 
+# お試し
 
 def get_filename_list(file_path):
     file_list = os.listdir(file_path)
