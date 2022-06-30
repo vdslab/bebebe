@@ -1,3 +1,4 @@
+from mlxtend.plotting import plot_decision_regions
 from tkinter import Y
 from sklearn.metrics import roc_curve, auc
 from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score
@@ -79,38 +80,31 @@ X_train, X_test, Y_train, Y_test = train_test_split(
 
 """以降追加"""
 
-# 線形SVMのインスタンスを生成
 
-sc = StandardScaler()
-sc.fit(X_train)
-X_train_std = sc.transform(X_train)
-X_test_std = sc.transform(X_test)
 
 model = SVC(kernel='linear', random_state=None)
 # モデルの学習。fit関数で行う。
-model.fit(X_train_std, Y_train)
+model.fit(X_train, Y_train)
 
 model = LogisticRegression(random_state=None)
 
 
-''' # トレーニングデータに対する精度
-pred_train = model.predict(X_train_std)
+# トレーニングデータに対する精度
+pred_train = model.predict(X_train)
 accuracy_train = accuracy_score(Y_train, pred_train)
 print('トレーニングデータに対する正解率： %.2f' % accuracy_train)
 
 # テストデータに対する精度
-pred_test = model.predict(X_test_std)
+pred_test = model.predict(X_test)
 accuracy_test = accuracy_score(Y_test, pred_test)
-print('テストデータに対する正解率： %.2f' % accuracy_test) '''
+print('テストデータに対する正解率： %.2f' % accuracy_test)
 
 
-import matplotlib.pyplot as plt
-from mlxtend.plotting import plot_decision_regions
-plt.style.use('ggplot') 
+''' plt.style.use('ggplot')
 
-X_combined_std = np.vstack((X_train_std, X_test_std))
-y_combined = np.hstack((Y_train,Y_test))
+X_combined_std = np.vstack((X_train, X_test))
+y_combined = np.hstack((Y_train, Y_test))
 
-fig = plt.figure(figsize=(13,8))
-plot_decision_regions(X_combined_std, y_combined, clf=model)
-plt.show()
+fig = plt.figure(figsize=(13, 8))
+plot_decision_regions(X_combined_std, y_combined, clf=model,res=0.02)
+plt.show() '''
