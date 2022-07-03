@@ -13,6 +13,7 @@ from sklearn import datasets
 from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn import svm
 
 """重複なし"""
 df_tiktok = pd.read_json("data/tiktok.json")
@@ -82,29 +83,34 @@ X_train, X_test, Y_train, Y_test = train_test_split(
 
 
 
-model = SVC(kernel='linear', random_state=None)
+''' model = SVC(kernel='linear', random_state=None)
 # モデルの学習。fit関数で行う。
-model.fit(X_train, Y_train)
+model.fit(X_train, Y_train)'''
 
 model = LogisticRegression(random_state=None)
 
 
 # トレーニングデータに対する精度
+model = SVC(kernel='linear', random_state=None)
+model.fit(X_train,Y_train)
+
 pred_train = model.predict(X_train)
 accuracy_train = accuracy_score(Y_train, pred_train)
 print('トレーニングデータに対する正解率： %.2f' % accuracy_train)
 
 # テストデータに対する精度
+model.fit(X_test,Y_test)
 pred_test = model.predict(X_test)
 accuracy_test = accuracy_score(Y_test, pred_test)
 print('テストデータに対する正解率： %.2f' % accuracy_test)
 
 
-''' plt.style.use('ggplot')
+
+plt.style.use('ggplot')
 
 X_combined_std = np.vstack((X_train, X_test))
 y_combined = np.hstack((Y_train, Y_test))
 
 fig = plt.figure(figsize=(13, 8))
 plot_decision_regions(X_combined_std, y_combined, clf=model,res=0.02)
-plt.show() '''
+plt.show()
