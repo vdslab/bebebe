@@ -14,6 +14,8 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn import svm
+from matplotlib import pyplot as plt
+from mlxtend.plotting import plot_decision_regions
 
 """重複なし"""
 df_tiktok = pd.read_json("data/tiktok.json")
@@ -56,18 +58,18 @@ df["ranking"] = df["ranking"].apply(ranking_convert)
 standard_sc = StandardScaler()
 
 # 01じゃないものを標準化
-X = df.loc[:, ["tempo", "danceability", "energy", "mode", "loudness", "acousticness",
-               "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"]]
+X = df.loc[:, ["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"
+]]
 X = standard_sc.fit_transform(X)
 
 # 標準化後のデータ出力
-df.loc[:, ["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness",
-           "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"]] = X
+df.loc[:, ["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"
+]] = X
 
 
 # 説明変数
-X = df[["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness",
-        "instrumentalness", "liveness", "key", "valence", "time_signature"]]
+X = df[["tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"
+]]
 # "tempo", "danceability", "energy", "mode", "loudness", "acousticness", "speechiness", "instrumentalness", "liveness", "key", "valence", "duration_ms", "time_signature"
 
 # 目的変数
@@ -111,6 +113,10 @@ plt.style.use('ggplot')
 X_combined_std = np.vstack((X_train, X_test))
 y_combined = np.hstack((Y_train, Y_test))
 
+feature_values = {i:1 for i in range(0, 12)}  
+feature_width = {i:1 for i in range(0, 12)} 
+
 fig = plt.figure(figsize=(13, 8))
-plot_decision_regions(X_combined_std, y_combined, clf=model,res=0.02)
+plot_decision_regions(X_combined_std, y_combined,clf=model,filler_feature_values=feature_values,filler_feature_ranges=feature_width)
+plt.clf()
 plt.show()
