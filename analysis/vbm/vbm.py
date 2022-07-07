@@ -24,8 +24,8 @@ df = pd.concat([df_tiktok, df_spotify])
 
 
 """重複あり"""
-# df_tiktok = pd.read_json("../data/multipleTiktokData.json")
-# df_spotify = pd.read_json("../data/spotify_100_200_tiktok_rm_data.json")
+# df_tiktok = pd.read_json("data/multipleTiktokData.json")
+# df_spotify = pd.read_json("data/spotify_100_200_tiktok_rm_data.json")
 # df = pd.concat([df_tiktok, df_spotify])
 
 # tiktokランキングに入っているものが1, その他0
@@ -101,7 +101,6 @@ accuracy_train = accuracy_score(Y_train, pred_train)
 print('トレーニングデータに対する正解率： %.2f' % accuracy_train)
 
 # テストデータに対する精度
-model.fit(X_test,Y_test)
 pred_test = model.predict(X_test)
 accuracy_test = accuracy_score(Y_test, pred_test)
 print('テストデータに対する正解率： %.2f' % accuracy_test)
@@ -117,6 +116,6 @@ feature_values = {i:1 for i in range(0, 12)}
 feature_width = {i:1 for i in range(0, 12)} 
 
 fig = plt.figure(figsize=(13, 8))
-plot_decision_regions(X_combined_std, y_combined,clf=model,filler_feature_values=feature_values,filler_feature_ranges=feature_width)
+plot_decision_regions(X_combined_std, y_combined,clf=model,filler_feature_values=feature_values,filler_feature_ranges=feature_width,legend=2)
 plt.clf()
 plt.show()
