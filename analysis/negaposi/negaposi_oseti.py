@@ -5,22 +5,24 @@ analyzer = oseti.Analyzer()
 # print(analyzer.analyze(text))
 # ⇒ [0.3333333333333333]
 
-f = open("analysis/lyrics/キャラクター.txt", 'r', encoding='UTF-8')
-data = f.read()
+# f = open("analysis/lyrics/曖昧.txt", 'r', encoding='UTF-8')
+# data = f.read()
 
-print(f.name)
-print(analyzer.analyze(data))
-# lyrics_list = []
+# print(f.name)
+# print(analyzer.count_polarity(data))
 
-# import glob
-# for filepath in glob.glob('analysis/lyrics/*'):
-#     lyrics_list.append(filepath)
+lyrics_list = []
 
-# for i in range(len(lyrics_list)):
-#     f = open(lyrics_list[i], 'r', encoding='UTF-8')
-#     data = f.read()
-#     # print(data)
-#     # print(f.name[16:]+" "+str(analyzer.analyze(data)))
-#     print(f.name)
-#     print(analyzer.analyze_detail(data))
-#     f.close()
+import glob
+for filepath in glob.glob('analysis/lyrics/tiktok外/*'):
+    lyrics_list.append(filepath)
+
+for i in range(len(lyrics_list)):
+    f = open(lyrics_list[i], 'r', encoding='UTF-8')
+    data = f.read()
+    # print(data)
+    # print(f.name[16:]+" "+str(analyzer.analyze(data)) +"\n")
+    
+    print(f.name)
+    print(analyzer.count_polarity(data), sep="\n")
+    f.close()

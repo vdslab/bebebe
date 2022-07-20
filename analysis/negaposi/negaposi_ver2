@@ -2,7 +2,7 @@ from janome.tokenizer import Tokenizer
 
 # 極性辞書の作成
 dict_polarity = {}
-with open('analysis/pn_ja.dic.txt', 'r', encoding='shift_jis') as f:
+with open('analysis/negaposi/pn_ja.dic.txt', 'r', encoding='shift_jis') as f:
     line = f.read()
     lines = line.split('\n')
     for i in range(len(lines)):
@@ -24,7 +24,7 @@ def judge_polarity(text):
             pol_val = pol_val + float(dict_polarity[word])
             pos_cnt += 1
             # 一つ一つの言葉の点数
-            # print("言葉："+str(word)+" 点数："+str(float(dict_polarity[word])))
+            print("言葉："+str(word)+" 点数："+str(float(dict_polarity[word])))
 
     # if pos_cnt != 0:
     #    pol_val /= pos_cnt
@@ -40,14 +40,19 @@ def judge_polarity(text):
 
 # ネガポジ分析の実行
 
-lyrics_list = []
+# lyrics_list = []
 
-import glob
-for filepath in glob.glob('analysis/lyrics/*'):
-    lyrics_list.append(filepath)
+# import glob
+# for filepath in glob.glob('analysis/lyrics/*'):
+#     lyrics_list.append(filepath)
 
-print(lyrics_list)
+# print(lyrics_list)
 
+f = open("analysis/lyrics/ロマンスの神様.txt", 'r', encoding='UTF-8')
+data = f.read()
+print(data)
+print(f.name[16:]+" "+str(judge_polarity(data)))
+f.close()
 
 
 for i in range(len(lyrics_list)):
